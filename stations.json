@@ -1,0 +1,62 @@
+[
+  {
+    "StationID": "0990",
+    "StationCode": "NAK",
+    "Zh_tw": "南港"
+  },
+  {
+    "StationID": "1000",
+    "StationCode": "TPE",
+    "Zh_tw": "台北"
+  },
+  {
+    "StationID": "1010",
+    "StationCode": "BAC",
+    "Zh_tw": "板橋"
+  },
+  {
+    "StationID": "1020",
+    "StationCode": "TAY",
+    "Zh_tw": "桃園"
+  },
+  {
+    "StationID": "1030",
+    "StationCode": "HSC",
+    "Zh_tw": "新竹"
+  },
+  {
+    "StationID": "1035",
+    "StationCode": "MIL",
+    "Zh_tw": "苗栗"
+  },
+  {
+    "StationID": "1040",
+    "StationCode": "TAC",
+    "Zh_tw": "台中"
+  },
+  {
+    "StationID": "1043",
+    "StationCode": "CHA",
+    "Zh_tw": "彰化"
+  },
+  {
+    "StationID": "1047",
+    "StationCode": "YUL",
+    "Zh_tw": "雲林"
+  },
+  {
+    "StationID": "1050",
+    "StationCode": "CHY",
+    "Zh_tw": "嘉義"
+  },
+  {
+    "StationID": "1060",
+    "StationCode": "TNN",
+    "Zh_tw": "台南"
+  },
+  {
+    "StationID": "1070",
+    "StationCode": "ZUY",
+    "Zh_tw": "左營"
+  }
+]
