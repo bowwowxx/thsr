@@ -1,4 +1,4 @@
-# 高鐵資料
+## 高鐵資料
 
 各站完整原始 JSON 位於 `timetable/YYYY-MM-DD-station-站碼.json`，未設定 `$top` 限制。
 
