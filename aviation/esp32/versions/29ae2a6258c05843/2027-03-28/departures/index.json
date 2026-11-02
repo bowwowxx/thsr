@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "date": "2027-03-28",
+  "direction": "departures",
+  "airport": "TPE",
+  "timezone": "Asia/Taipei",
+  "scheduled_only": true,
+  "count": 28,
+  "pages": [
+    {
+      "file": "000.json",
+      "count": 28,
+      "bytes": 4137,
+      "first_time": "00:05",
+      "last_time": "07:45",
+      "sha256": "05cf1aa737eafada08a71ff51cea768f88311859338c4af0d1a69715b9687a1f"
+    }
+  ]
+}

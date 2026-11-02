@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "date": "2027-02-24",
+  "airport": "TPE",
+  "timezone": "Asia/Taipei",
+  "scheduled_only": true,
+  "arrivals": {
+    "index": "versions/29ae2a6258c05843/2027-02-24/arrivals/index.json",
+    "count": 633
+  },
+  "departures": {
+    "index": "versions/29ae2a6258c05843/2027-02-24/departures/index.json",
+    "count": 621
+  }
+}

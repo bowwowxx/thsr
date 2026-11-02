@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "date": "2027-03-28",
+  "direction": "arrivals",
+  "airport": "TPE",
+  "timezone": "Asia/Taipei",
+  "scheduled_only": true,
+  "count": 89,
+  "pages": [
+    {
+      "file": "000.json",
+      "count": 32,
+      "bytes": 4745,
+      "first_time": "00:00",
+      "last_time": "05:10",
+      "sha256": "51cef09034f83b0c89a8c8fe083ce3b9974fb0a86060f16f5ee91b786d3d652c"
+    },
+    {
+      "file": "001.json",
+      "count": 32,
+      "bytes": 4701,
+      "first_time": "05:10",
+      "last_time": "05:40",
+      "sha256": "e8c14eb16d313099ff94182297dd87fb7ae5aa4cad2910a144ab970430aa1c05"
+    },
+    {
+      "file": "002.json",
+      "count": 25,
+      "bytes": 3715,
+      "first_time": "05:40",
+      "last_time": "07:25",
+      "sha256": "4461e2f8ceb90460a73abc3f9e0a0a1c39345fd3d6e0b8d854bc882c6dca89e5"
+    }
+  ]
+}

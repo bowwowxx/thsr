@@ -1,0 +1,30 @@
+{
+  "CJU": {
+    "zh": "濟州",
+    "en": "Jeju"
+  },
+  "TAK": {
+    "zh": "高松",
+    "en": "Takamatsu"
+  },
+  "KMJ": {
+    "zh": "熊本",
+    "en": "Kumamoto"
+  },
+  "SFO": {
+    "zh": "舊金山",
+    "en": "San Francisco"
+  },
+  "NRT": {
+    "zh": "東京",
+    "en": "Narita"
+  },
+  "CTS": {
+    "zh": "札幌",
+    "en": "Sapporo"
+  },
+  "KIX": {
+    "zh": "大阪",
+    "en": "Osaka"
+  }
+}

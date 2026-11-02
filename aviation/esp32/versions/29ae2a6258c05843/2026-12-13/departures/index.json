@@ -1,0 +1,171 @@
+{
+  "schema": 1,
+  "date": "2026-12-13",
+  "direction": "departures",
+  "airport": "TPE",
+  "timezone": "Asia/Taipei",
+  "scheduled_only": true,
+  "count": 639,
+  "pages": [
+    {
+      "file": "000.json",
+      "count": 32,
+      "bytes": 4737,
+      "first_time": "00:05",
+      "last_time": "06:15",
+      "sha256": "afaf6623ff923c9d5a2894195555e76603f594aba9762b6011c6d48b0e97141a"
+    },
+    {
+      "file": "001.json",
+      "count": 32,
+      "bytes": 4694,
+      "first_time": "06:15",
+      "last_time": "06:55",
+      "sha256": "eca56c64dfd461ee47c5a0b0e0c4bf5eab41d945e7ff4a64bd93f8fc1c56d913"
+    },
+    {
+      "file": "002.json",
+      "count": 32,
+      "bytes": 4664,
+      "first_time": "06:55",
+      "last_time": "07:30",
+      "sha256": "541895b3ea42570b8ec83085c660e68c1ba1f474c1ed6b22d8fd356a44630bd4"
+    },
+    {
+      "file": "003.json",
+      "count": 32,
+      "bytes": 4678,
+      "first_time": "07:30",
+      "last_time": "08:00",
+      "sha256": "fafa0ca9fd37eafe3f6390f9f9beafe21f2c1d34b1b3c8d8525e8def9909ead0"
+    },
+    {
+      "file": "004.json",
+      "count": 32,
+      "bytes": 4657,
+      "first_time": "08:00",
+      "last_time": "08:30",
+      "sha256": "f47469dbe0dca841d3545697f09b9e47c11de67fe68a01530684daf3d5988c78"
+    },
+    {
+      "file": "005.json",
+      "count": 32,
+      "bytes": 4721,
+      "first_time": "08:30",
+      "last_time": "09:15",
+      "sha256": "acbd2a88fff148fba1efbc9c6f8454cc7eb626785562ab692a7470a564c07e1f"
+    },
+    {
+      "file": "006.json",
+      "count": 32,
+      "bytes": 4710,
+      "first_time": "09:20",
+      "last_time": "09:55",
+      "sha256": "cab9d7c6a8c2bea48a65dc45912f411f949f4868753d99015e5b63e365e7ec50"
+    },
+    {
+      "file": "007.json",
+      "count": 32,
+      "bytes": 4670,
+      "first_time": "09:55",
+      "last_time": "10:55",
+      "sha256": "e6f19a979f81ad24a3f71d4b832ff9a810df8e8bd5724e279cc2e77cd0fdf829"
+    },
+    {
+      "file": "008.json",
+      "count": 32,
+      "bytes": 4692,
+      "first_time": "11:00",
+      "last_time": "12:10",
+      "sha256": "203007de49b02f851210b9d765132783f7ba0f6ec381fa09fd670aca91ac0193"
+    },
+    {
+      "file": "009.json",
+      "count": 32,
+      "bytes": 4685,
+      "first_time": "12:10",
+      "last_time": "13:15",
+      "sha256": "32c0e529f7fed9fe8f9967bc8ee16425f7ea8ac9af0bc6e11e96385dae84532f"
+    },
+    {
+      "file": "010.json",
+      "count": 32,
+      "bytes": 4671,
+      "first_time": "13:15",
+      "last_time": "14:20",
+      "sha256": "4b63f600d0de6ef19322d486c3ad437572dfa0f5ca0ab89fd142401eabf03e37"
+    },
+    {
+      "file": "011.json",
+      "count": 32,
+      "bytes": 4721,
+      "first_time": "14:20",
+      "last_time": "15:00",
+      "sha256": "4c10d7aac9253860af4926b6d06c3b656053424d7744259634cde1cd823e1118"
+    },
+    {
+      "file": "012.json",
+      "count": 32,
+      "bytes": 4685,
+      "first_time": "15:00",
+      "last_time": "15:40",
+      "sha256": "00f924946769f71844afcc8d024fe6fc1f8b281d9ca10e16a0d7d988f7505e93"
+    },
+    {
+      "file": "013.json",
+      "count": 32,
+      "bytes": 4653,
+      "first_time": "15:40",
+      "last_time": "16:30",
+      "sha256": "a798922590c2331403a8b2d391a1e3f33310861791fae9e5b60903e7533e016b"
+    },
+    {
+      "file": "014.json",
+      "count": 32,
+      "bytes": 4646,
+      "first_time": "16:35",
+      "last_time": "17:25",
+      "sha256": "01a910912f91182d002b9f215c655a043155896680d4c8039ed0a13a723da052"
+    },
+    {
+      "file": "015.json",
+      "count": 32,
+      "bytes": 4643,
+      "first_time": "17:25",
+      "last_time": "18:50",
+      "sha256": "e281db427ae9461122f2c3c2e26afec450179e41e4a2e9e1f52ceda726f99be9"
+    },
+    {
+      "file": "016.json",
+      "count": 32,
+      "bytes": 4643,
+      "first_time": "18:50",
+      "last_time": "19:35",
+      "sha256": "4c61f084e2f2717348792f636bbda5ffefe127e867e3ce9c3306f2fce1e1a410"
+    },
+    {
+      "file": "017.json",
+      "count": 32,
+      "bytes": 4701,
+      "first_time": "19:40",
+      "last_time": "20:45",
+      "sha256": "da0b9fbe19d1f1a490491f8176b2e5651c85995ba4f98c2873fcb7b615722cd0"
+    },
+    {
+      "file": "018.json",
+      "count": 32,
+      "bytes": 4678,
+      "first_time": "20:55",
+      "last_time": "23:30",
+      "sha256": "2ba3ac4190ac8f979295e5981aa3af6fab654b4728efc5b65c09cbae8120a6fc"
+    },
+    {
+      "file": "019.json",
+      "count": 31,
+      "bytes": 4564,
+      "first_time": "23:30",
+      "last_time": "23:55",
+      "sha256": "10717932ef994aba79a44df5575a313d23179e17b6bd46f49860f1e12259fd8a"
+    }
+  ]
+}
