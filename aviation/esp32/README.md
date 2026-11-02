@@ -34,4 +34,4 @@ python3 prepare_aviation_esp32.py
 python3 -m unittest discover -s tests -v
 ```
 
-原始檔與全欄位每日檔均保留。尚未修改 ESP32 航空頁的 HTTP／解析程式；本目錄先提供裝置可分次讀取的格式。尚未上傳 GitHub，所以目前不存在公開 raw 下載網址。
+原始檔與全欄位每日檔均保留。資料已上傳 GitHub。入口：https://raw.githubusercontent.com/bowwowxx/thsr/main/aviation/esp32/index.json 。本機 ESP32 專案已加入「更新」按鈕及 Flash 快取，需設定 Wi-Fi 並燒錄新版韌體後使用。
