@@ -15,47 +15,28 @@ import sys
 import tempfile
 from pathlib import Path
 from typing import Optional
-from urllib import error as urllib_error
-from urllib.request import urlopen
 
 ROOT = Path(__file__).resolve().parent
 TIMETABLE = ROOT / 'timetable'
 STATIONS = ('0990', '1000', '1010', '1020', '1030', '1035', '1040', '1043', '1047', '1050', '1060', '1070')
-RAW_URL = 'https://raw.githubusercontent.com/bowwowxx/thsr/main/timetable/{date}-station-{sid}.json'
 DATE_RE = re.compile(r'\d{4}-\d{2}-\d{2}')
 
 
-def catalog_names(date):
-    """Latest published per-station station names from the repo's raw files."""
-    try:
-        with urlopen('https://api.github.com/repos/bowwowxx/thsr/contents/timetable?ref=main', timeout=30) as response:
-            entries = json.load(response)
-    except Exception as e:
-        raise SystemExit(f'GitHub listing fetch failed: {e}')
-    if not isinstance(entries, list) or not entries:
-        raise SystemExit('GitHub listing empty')
-    files = {}
-    for entry in entries:
-        name = entry.get('name', '')
-        match = re.fullmatch(r'(\d{4}-\d{2}-\d{2})-station-(\d{4})\.json', name)
-        if match:
-            files[match.group(2)] = match.group(1)
-    missing = [sid for sid in STATIONS if sid not in files]
-    if missing:
-        raise SystemExit(f'no published per-station file for station(s) {missing}; run git push first')
+def catalog_names(stations):
+    """Read Chinese station names from the consolidated daily file."""
     names = {}
     for sid in STATIONS:
-        url = f'https://raw.githubusercontent.com/bowwowxx/thsr/main/timetable/{files[sid]}-station-{sid}.json'
-        with urlopen(url, timeout=30) as response:
-            first = json.load(response)
-        if not isinstance(first, list) or not first:
-            raise SystemExit(f'raw file for {sid} is empty or not a list')
-        station = first[0].get('StationName')
-        name = station.get('Zh_tw') if isinstance(station, dict) else None
-        if not name:
-            raise SystemExit(f'raw file for {sid} lacks StationName.Zh_tw')
+        station = stations.get(sid)
+        name = station.get('Name') if isinstance(station, dict) else None
+        if not isinstance(name, str) or not name.strip():
+            raise ValueError(f'station {sid}: missing Name in daily file')
         names[sid] = name
     return names
+
+
+def station_name(name):
+    """Use the Chinese name for every language, matching the ESP32 files."""
+    return {lang: name for lang in ('Zh_tw', 'En', 'Ja', 'Ko')}
 
 
 def load_daily(date):
@@ -69,7 +50,7 @@ def load_daily(date):
     return stations
 
 
-def build_station(date, sid, name, trains):
+def build_station(date, sid, names, trains):
     if not isinstance(trains, list) or not trains:
         raise ValueError(f'{date} station {sid}: empty Trains')
     rows = []
@@ -85,19 +66,22 @@ def build_station(date, sid, name, trains):
         for key in ('StartingStationID', 'EndingStationID', 'TrainNo'):
             if not str(t.get(key) or ''):
                 raise ValueError(f'{date} station {sid}: missing {key}')
+        for key in ('StartingStationID', 'EndingStationID'):
+            if t[key] not in names:
+                raise ValueError(f'{date} station {sid}: unknown {key} {t[key]!r}')
         rows.append({
             'TrainDate': t['TrainDate'],
             'StationID': sid,
-            'StationName': {'Zh_tw': name, 'En': '', 'Ja': '', 'Ko': ''},
+            'StationName': station_name(names[sid]),
             'TrainNo': t['TrainNo'],
             'Direction': t['Direction'],
             'StartingStationID': t['StartingStationID'],
-            'StartingStationName': {'Zh_tw': '', 'En': '', 'Ja': '', 'Ko': ''},
+            'StartingStationName': station_name(names[t['StartingStationID']]),
             'EndingStationID': t['EndingStationID'],
-            'EndingStationName': {'Zh_tw': '', 'En': '', 'Ja': '', 'Ko': ''},
+            'EndingStationName': station_name(names[t['EndingStationID']]),
             'ArrivalTime': t.get('ArrivalTime') or '',
             'DepartureTime': t.get('DepartureTime') or '',
-            'UpdateTime': '',
+            'UpdateTime': t.get('UpdateTime') or date,
             'VersionID': 1,
         })
     return rows
@@ -124,14 +108,14 @@ def run(train_date: Optional[str] = None) -> None:
         train_date = sys.argv[1]
     if not DATE_RE.fullmatch(train_date):
         raise SystemExit(f'Bad date {train_date!r}; expected YYYY-MM-DD')
-    names = catalog_names(train_date)
     stations = load_daily(train_date)
+    names = catalog_names(stations)
     payloads = {}
     for sid in STATIONS:
         station = stations.get(sid)
         if not isinstance(station, dict):
             raise SystemExit(f'{train_date} station {sid}: missing from daily file')
-        rows = build_station(train_date, sid, names[sid], station['Trains'])
+        rows = build_station(train_date, sid, names, station['Trains'])
         payloads[sid] = (json.dumps(rows, ensure_ascii=False, indent=2) + '\n', len(rows))
     # All 12 stations validated (or exited above); now publish atomically.
     total = 0
@@ -147,6 +131,5 @@ def run(train_date: Optional[str] = None) -> None:
 if __name__ == '__main__':
     try:
         run()
-    except (SystemExit, ValueError, OSError, json.JSONDecodeError,
-            urllib_error.URLError) as e:
+    except (SystemExit, ValueError, OSError, json.JSONDecodeError) as e:
         raise SystemExit(str(e))
