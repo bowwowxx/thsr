@@ -1,0 +1,10 @@
+{
+  "source_url": "https://tdx.transportdata.tw/api/basic/v2/Air/GeneralSchedule/International?health=false&%24format=JSON",
+  "fetched_at": "2026-11-03T02:26:22.433253+08:00",
+  "http_status": 200,
+  "record_count": 42343,
+  "bytes": 16994375,
+  "file": "2026-11-03-general-schedule.json",
+  "top_limit": false,
+  "sha256": "9b6ea5e63b9d6918422d545ce21de34400929ec775406b051ed6e2ca4630a51e"
+}
