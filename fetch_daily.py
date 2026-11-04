@@ -112,7 +112,7 @@ def slim_train(t: dict) -> dict:
     }
 
 
-def run(train_date: Optional[str] = None, output_dir: Optional[Path] = None):
+def run(train_date: Optional[str] = None, output_dir: Optional[Path] = None) -> Path:
     """主程式：抓取全線 12 站班次"""
     authenticate()
     if train_date is None:
@@ -164,6 +164,9 @@ def run(train_date: Optional[str] = None, output_dir: Optional[Path] = None):
             temp_path.unlink()
     print(f"\n完成 — 共 {total} 班次，存至 {out_path}")
 
+    # 展開成韌機使用的逐站檔（timetable/{date}-station-{id}.json）。
+    import prepare_station_daily
+    prepare_station_daily.run(train_date)
     return out_path
 
 

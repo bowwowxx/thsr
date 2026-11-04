@@ -14,6 +14,8 @@ import re
 import sys
 import tempfile
 from pathlib import Path
+from typing import Optional
+from urllib import error as urllib_error
 from urllib.request import urlopen
 
 ROOT = Path(__file__).resolve().parent
@@ -115,34 +117,36 @@ def atomic_write(path, text):
             temp.unlink(missing_ok=True)
 
 
-def main():
-    if len(sys.argv) != 2:
-        raise SystemExit(__doc__)
-    date = sys.argv[1]
-    if not DATE_RE.fullmatch(date):
-        raise SystemExit(f'Bad date {date!r}; expected YYYY-MM-DD')
-    names = catalog_names(date)
-    stations = load_daily(date)
+def run(train_date: Optional[str] = None) -> None:
+    if train_date is None:
+        if len(sys.argv) != 2:
+            raise SystemExit(__doc__)
+        train_date = sys.argv[1]
+    if not DATE_RE.fullmatch(train_date):
+        raise SystemExit(f'Bad date {train_date!r}; expected YYYY-MM-DD')
+    names = catalog_names(train_date)
+    stations = load_daily(train_date)
     payloads = {}
     for sid in STATIONS:
         station = stations.get(sid)
         if not isinstance(station, dict):
-            raise SystemExit(f'{date} station {sid}: missing from daily file')
-        rows = build_station(date, sid, names[sid], station['Trains'])
+            raise SystemExit(f'{train_date} station {sid}: missing from daily file')
+        rows = build_station(train_date, sid, names[sid], station['Trains'])
         payloads[sid] = (json.dumps(rows, ensure_ascii=False, indent=2) + '\n', len(rows))
     # All 12 stations validated (or exited above); now publish atomically.
     total = 0
     for sid in STATIONS:
         text, count = payloads[sid]
-        path = TIMETABLE / f'{date}-station-{sid}.json'
+        path = TIMETABLE / f'{train_date}-station-{sid}.json'
         total += count
         atomic_write(path, text)
         print(f'wrote {path.name} ({count} rows, {len(text)} bytes)')
-    print(f'{date}: published {len(STATIONS)} station files, {total} rows total')
+    print(f'{train_date}: published {len(STATIONS)} station files, {total} rows total')
 
 
 if __name__ == '__main__':
     try:
-        main()
-    except (SystemExit, ValueError, OSError, json.JSONDecodeError) as e:
+        run()
+    except (SystemExit, ValueError, OSError, json.JSONDecodeError,
+            urllib_error.URLError) as e:
         raise SystemExit(str(e))
