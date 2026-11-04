@@ -4,29 +4,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0300",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "05:50",
     "DepartureTime": "05:50",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -34,29 +34,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0802",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "06:15",
     "DepartureTime": "06:15",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -64,29 +64,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1202",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "06:25",
     "DepartureTime": "06:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -94,29 +94,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1602",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "06:40",
     "DepartureTime": "06:40",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -124,29 +124,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1302",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "06:45",
     "DepartureTime": "06:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -154,29 +154,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0204",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "06:55",
     "DepartureTime": "06:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -184,29 +184,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0606",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "07:00",
     "DepartureTime": "07:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -214,29 +214,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0206",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "07:15",
     "DepartureTime": "07:15",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -244,29 +244,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0806",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "07:25",
     "DepartureTime": "07:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -274,29 +274,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0583",
     "Direction": 0,
     "StartingStationID": "1040",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "07:30",
     "DepartureTime": "07:30",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -304,29 +304,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0610",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "07:35",
     "DepartureTime": "07:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -334,29 +334,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0108",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "07:55",
     "DepartureTime": "07:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -364,29 +364,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0612",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "08:00",
     "DepartureTime": "08:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -394,29 +394,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0203",
     "Direction": 0,
     "StartingStationID": "1000",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "台北",
+      "En": "台北",
+      "Ja": "台北",
+      "Ko": "台北"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "08:15",
     "DepartureTime": "08:15",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -424,29 +424,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0810",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "08:25",
     "DepartureTime": "08:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -454,29 +454,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0616",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "08:35",
     "DepartureTime": "08:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -484,29 +484,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0803",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "08:40",
     "DepartureTime": "08:40",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -514,29 +514,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0603",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "08:50",
     "DepartureTime": "08:50",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -544,29 +544,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0112",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "08:55",
     "DepartureTime": "08:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -574,29 +574,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0618",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "09:00",
     "DepartureTime": "09:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -604,29 +604,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0109",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "09:05",
     "DepartureTime": "09:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -634,29 +634,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0814",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "09:25",
     "DepartureTime": "09:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -664,29 +664,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0805",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "09:25",
     "DepartureTime": "09:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -694,29 +694,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0205",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "09:30",
     "DepartureTime": "09:30",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -724,29 +724,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0622",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "09:35",
     "DepartureTime": "09:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -754,29 +754,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0609",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "09:45",
     "DepartureTime": "09:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -784,29 +784,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0116",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "09:55",
     "DepartureTime": "09:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -814,29 +814,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1305",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "10:00",
     "DepartureTime": "10:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -844,29 +844,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0624",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "10:00",
     "DepartureTime": "10:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -874,29 +874,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0207",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "10:10",
     "DepartureTime": "10:10",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -904,29 +904,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0613",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "10:20",
     "DepartureTime": "10:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -934,29 +934,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0818",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "10:25",
     "DepartureTime": "10:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -964,29 +964,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0809",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "10:25",
     "DepartureTime": "10:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -994,29 +994,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0628",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "10:35",
     "DepartureTime": "10:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1024,29 +1024,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0615",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "10:45",
     "DepartureTime": "10:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1054,29 +1054,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0120",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "10:55",
     "DepartureTime": "10:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1084,29 +1084,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1307",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "11:00",
     "DepartureTime": "11:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1114,29 +1114,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0630",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "11:00",
     "DepartureTime": "11:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1144,29 +1144,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0117",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "11:05",
     "DepartureTime": "11:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1174,29 +1174,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0619",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "11:20",
     "DepartureTime": "11:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1204,29 +1204,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0822",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "11:25",
     "DepartureTime": "11:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1234,29 +1234,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0813",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "11:25",
     "DepartureTime": "11:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1264,29 +1264,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0621",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "11:45",
     "DepartureTime": "11:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1294,29 +1294,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0124",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "11:55",
     "DepartureTime": "11:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1324,29 +1324,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0636",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "12:00",
     "DepartureTime": "12:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1354,29 +1354,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0121",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "12:05",
     "DepartureTime": "12:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1384,29 +1384,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0625",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "12:20",
     "DepartureTime": "12:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1414,29 +1414,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0826",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "12:25",
     "DepartureTime": "12:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1444,29 +1444,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0817",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "12:25",
     "DepartureTime": "12:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1474,29 +1474,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0640",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "12:35",
     "DepartureTime": "12:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1504,29 +1504,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0627",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "12:45",
     "DepartureTime": "12:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1534,29 +1534,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0128",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "12:55",
     "DepartureTime": "12:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1564,29 +1564,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0642",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "13:00",
     "DepartureTime": "13:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1594,29 +1594,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0125",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "13:05",
     "DepartureTime": "13:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1624,29 +1624,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0830",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "13:25",
     "DepartureTime": "13:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1654,29 +1654,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0821",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "13:25",
     "DepartureTime": "13:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1684,29 +1684,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0646",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "13:35",
     "DepartureTime": "13:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1714,29 +1714,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0633",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "13:45",
     "DepartureTime": "13:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1744,29 +1744,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0132",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "13:55",
     "DepartureTime": "13:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1774,29 +1774,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0648",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "14:00",
     "DepartureTime": "14:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1804,29 +1804,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0129",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "14:05",
     "DepartureTime": "14:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1834,29 +1834,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0637",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "14:20",
     "DepartureTime": "14:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1864,29 +1864,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0834",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "14:25",
     "DepartureTime": "14:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1894,29 +1894,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0825",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "14:25",
     "DepartureTime": "14:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1924,29 +1924,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0652",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "14:35",
     "DepartureTime": "14:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1954,29 +1954,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0639",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "14:45",
     "DepartureTime": "14:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -1984,29 +1984,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0136",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "14:55",
     "DepartureTime": "14:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2014,29 +2014,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0654",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "15:00",
     "DepartureTime": "15:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2044,29 +2044,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0133",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "15:05",
     "DepartureTime": "15:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2074,29 +2074,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1238",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "15:15",
     "DepartureTime": "15:15",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2104,29 +2104,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0643",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "15:20",
     "DepartureTime": "15:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2134,29 +2134,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0829",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "15:25",
     "DepartureTime": "15:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2164,29 +2164,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0838",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "15:25",
     "DepartureTime": "15:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2194,29 +2194,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0658",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "15:35",
     "DepartureTime": "15:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2224,29 +2224,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0645",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "15:45",
     "DepartureTime": "15:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2254,29 +2254,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0140",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "15:55",
     "DepartureTime": "15:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2284,29 +2284,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0660",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "16:00",
     "DepartureTime": "16:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2314,29 +2314,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0137",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "16:05",
     "DepartureTime": "16:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2344,29 +2344,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0242",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "16:15",
     "DepartureTime": "16:15",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2374,29 +2374,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0649",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "16:20",
     "DepartureTime": "16:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2404,29 +2404,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0833",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "16:25",
     "DepartureTime": "16:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2434,29 +2434,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0842",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "16:25",
     "DepartureTime": "16:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2464,29 +2464,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0664",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "16:35",
     "DepartureTime": "16:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2494,29 +2494,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0651",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "16:45",
     "DepartureTime": "16:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2524,29 +2524,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1322",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "16:45",
     "DepartureTime": "16:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2554,29 +2554,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0144",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "16:55",
     "DepartureTime": "16:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2584,29 +2584,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0666",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "17:00",
     "DepartureTime": "17:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2614,29 +2614,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0141",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "17:05",
     "DepartureTime": "17:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2644,29 +2644,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1246",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "17:15",
     "DepartureTime": "17:15",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2674,29 +2674,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0655",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "17:20",
     "DepartureTime": "17:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2704,29 +2704,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0837",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "17:25",
     "DepartureTime": "17:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2734,29 +2734,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0846",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "17:25",
     "DepartureTime": "17:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2764,29 +2764,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0670",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "17:35",
     "DepartureTime": "17:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2794,29 +2794,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0657",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "17:45",
     "DepartureTime": "17:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2824,29 +2824,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0148",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "17:55",
     "DepartureTime": "17:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2854,29 +2854,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0672",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "18:00",
     "DepartureTime": "18:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2884,29 +2884,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1321",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "18:00",
     "DepartureTime": "18:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2914,29 +2914,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0145",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "18:05",
     "DepartureTime": "18:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2944,29 +2944,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0661",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "18:20",
     "DepartureTime": "18:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -2974,29 +2974,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0841",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "18:25",
     "DepartureTime": "18:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3004,29 +3004,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0850",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "18:25",
     "DepartureTime": "18:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3034,29 +3034,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1241",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "18:30",
     "DepartureTime": "18:30",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3064,29 +3064,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0676",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "18:35",
     "DepartureTime": "18:35",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3094,29 +3094,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0663",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "18:45",
     "DepartureTime": "18:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3124,29 +3124,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0152",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "18:55",
     "DepartureTime": "18:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3154,29 +3154,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0678",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "19:00",
     "DepartureTime": "19:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3184,29 +3184,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0149",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "19:05",
     "DepartureTime": "19:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3214,29 +3214,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0667",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "19:20",
     "DepartureTime": "19:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3244,29 +3244,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0845",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "19:25",
     "DepartureTime": "19:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3274,29 +3274,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0854",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "19:25",
     "DepartureTime": "19:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3304,29 +3304,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0669",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "19:45",
     "DepartureTime": "19:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3334,29 +3334,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0156",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "19:55",
     "DepartureTime": "19:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3364,29 +3364,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0684",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "20:00",
     "DepartureTime": "20:00",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3394,29 +3394,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0153",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "20:05",
     "DepartureTime": "20:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3424,29 +3424,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0673",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "20:20",
     "DepartureTime": "20:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3454,29 +3454,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0858",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "20:25",
     "DepartureTime": "20:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3484,29 +3484,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0849",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "20:25",
     "DepartureTime": "20:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3514,29 +3514,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0249",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "20:30",
     "DepartureTime": "20:30",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3544,29 +3544,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0675",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "20:45",
     "DepartureTime": "20:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3574,29 +3574,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0160",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "20:55",
     "DepartureTime": "20:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3604,29 +3604,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0690",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "21:05",
     "DepartureTime": "21:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3634,29 +3634,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0157",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "21:05",
     "DepartureTime": "21:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3664,29 +3664,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0679",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "21:20",
     "DepartureTime": "21:20",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3694,29 +3694,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0853",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "21:25",
     "DepartureTime": "21:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3724,29 +3724,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0862",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "21:30",
     "DepartureTime": "21:30",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3754,29 +3754,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0681",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "21:45",
     "DepartureTime": "21:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3784,29 +3784,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0696",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "1000",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "台北",
+      "En": "台北",
+      "Ja": "台北",
+      "Ko": "台北"
     },
     "ArrivalTime": "21:55",
     "DepartureTime": "21:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3814,29 +3814,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0161",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "22:05",
     "DepartureTime": "22:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3844,29 +3844,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0294",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "0990",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "ArrivalTime": "22:10",
     "DepartureTime": "22:10",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3874,29 +3874,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0857",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "22:25",
     "DepartureTime": "22:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3904,29 +3904,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0687",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "22:45",
     "DepartureTime": "22:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3934,29 +3934,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0598",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "EndingStationID": "1040",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
     },
     "ArrivalTime": "22:55",
     "DepartureTime": "22:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3964,29 +3964,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0165",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "23:05",
     "DepartureTime": "23:05",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -3994,29 +3994,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0861",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "23:25",
     "DepartureTime": "23:25",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -4024,29 +4024,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0693",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "23:40",
     "DepartureTime": "23:40",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -4054,29 +4054,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "1985",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "23:45",
     "DepartureTime": "23:45",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -4084,29 +4084,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0333",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "23:55",
     "DepartureTime": "23:55",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   },
   {
@@ -4114,29 +4114,29 @@
     "StationID": "1070",
     "StationName": {
       "Zh_tw": "左營",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "TrainNo": "0295",
     "Direction": 0,
     "StartingStationID": "0990",
     "StartingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
     },
     "EndingStationID": "1070",
     "EndingStationName": {
-      "Zh_tw": "",
-      "En": "",
-      "Ja": "",
-      "Ko": ""
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
     },
     "ArrivalTime": "23:59",
     "DepartureTime": "23:59",
-    "UpdateTime": "",
+    "UpdateTime": "2026-11-04",
     "VersionID": 1
   }
 ]
