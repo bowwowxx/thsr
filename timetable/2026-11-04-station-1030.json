@@ -1,0 +1,2942 @@
+[
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0502",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "06:36",
+    "DepartureTime": "06:37",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1504",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:01",
+    "DepartureTime": "07:02",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0803",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:00",
+    "DepartureTime": "07:02",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0508",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:23",
+    "DepartureTime": "07:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0603",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:26",
+    "DepartureTime": "07:27",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1510",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:42",
+    "DepartureTime": "07:45",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0805",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:45",
+    "DepartureTime": "07:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0802",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:56",
+    "DepartureTime": "07:58",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1602",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:03",
+    "DepartureTime": "08:05",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1505",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:11",
+    "DepartureTime": "08:12",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0609",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:21",
+    "DepartureTime": "08:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0606",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:23",
+    "DepartureTime": "08:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1514",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:38",
+    "DepartureTime": "08:39",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0809",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:45",
+    "DepartureTime": "08:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0613",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:53",
+    "DepartureTime": "08:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0610",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:56",
+    "DepartureTime": "08:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0806",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:07",
+    "DepartureTime": "09:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0615",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:21",
+    "DepartureTime": "09:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0612",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:23",
+    "DepartureTime": "09:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0813",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:45",
+    "DepartureTime": "09:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0619",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:53",
+    "DepartureTime": "09:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0616",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:56",
+    "DepartureTime": "09:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0810",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:07",
+    "DepartureTime": "10:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0621",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:21",
+    "DepartureTime": "10:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0618",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:23",
+    "DepartureTime": "10:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0817",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:45",
+    "DepartureTime": "10:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0625",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:53",
+    "DepartureTime": "10:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0622",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:56",
+    "DepartureTime": "10:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0814",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:07",
+    "DepartureTime": "11:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0627",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:21",
+    "DepartureTime": "11:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0624",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:23",
+    "DepartureTime": "11:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0821",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:45",
+    "DepartureTime": "11:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0628",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:56",
+    "DepartureTime": "11:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0818",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:07",
+    "DepartureTime": "12:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0633",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:21",
+    "DepartureTime": "12:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0630",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:23",
+    "DepartureTime": "12:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0825",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:45",
+    "DepartureTime": "12:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0637",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:53",
+    "DepartureTime": "12:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0822",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:07",
+    "DepartureTime": "13:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0639",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:21",
+    "DepartureTime": "13:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0636",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:23",
+    "DepartureTime": "13:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0829",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:45",
+    "DepartureTime": "13:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0643",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:53",
+    "DepartureTime": "13:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0640",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:56",
+    "DepartureTime": "13:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0826",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:07",
+    "DepartureTime": "14:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0645",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:21",
+    "DepartureTime": "14:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0642",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:23",
+    "DepartureTime": "14:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0833",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:45",
+    "DepartureTime": "14:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0649",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:53",
+    "DepartureTime": "14:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0646",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:56",
+    "DepartureTime": "14:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0830",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:07",
+    "DepartureTime": "15:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0651",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:21",
+    "DepartureTime": "15:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0648",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:23",
+    "DepartureTime": "15:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0837",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:45",
+    "DepartureTime": "15:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0655",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:53",
+    "DepartureTime": "15:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0652",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:56",
+    "DepartureTime": "15:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0834",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:07",
+    "DepartureTime": "16:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0657",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:21",
+    "DepartureTime": "16:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0654",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:23",
+    "DepartureTime": "16:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0841",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:45",
+    "DepartureTime": "16:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0661",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:53",
+    "DepartureTime": "16:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0658",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:56",
+    "DepartureTime": "16:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0838",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:07",
+    "DepartureTime": "17:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0663",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:21",
+    "DepartureTime": "17:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0660",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:23",
+    "DepartureTime": "17:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1550",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:38",
+    "DepartureTime": "17:39",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0845",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:45",
+    "DepartureTime": "17:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0667",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:53",
+    "DepartureTime": "17:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0664",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:56",
+    "DepartureTime": "17:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0842",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:07",
+    "DepartureTime": "18:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0669",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:21",
+    "DepartureTime": "18:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0666",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:23",
+    "DepartureTime": "18:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1547",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:27",
+    "DepartureTime": "18:28",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0849",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:45",
+    "DepartureTime": "18:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0673",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:53",
+    "DepartureTime": "18:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0670",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:56",
+    "DepartureTime": "18:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0846",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:07",
+    "DepartureTime": "19:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1549",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:11",
+    "DepartureTime": "19:12",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0675",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:21",
+    "DepartureTime": "19:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0672",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:23",
+    "DepartureTime": "19:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0853",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:45",
+    "DepartureTime": "19:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0679",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:53",
+    "DepartureTime": "19:56",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0676",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:56",
+    "DepartureTime": "19:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0850",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:07",
+    "DepartureTime": "20:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0681",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:21",
+    "DepartureTime": "20:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0678",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:23",
+    "DepartureTime": "20:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0857",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:45",
+    "DepartureTime": "20:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0854",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:07",
+    "DepartureTime": "21:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0687",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:21",
+    "DepartureTime": "21:22",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0684",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:23",
+    "DepartureTime": "21:25",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0861",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:45",
+    "DepartureTime": "21:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0858",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:07",
+    "DepartureTime": "22:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0693",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:16",
+    "DepartureTime": "22:17",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0690",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:28",
+    "DepartureTime": "22:30",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0565",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:58",
+    "DepartureTime": "23:00",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0862",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:11",
+    "DepartureTime": "23:12",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0696",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1000",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:24",
+    "DepartureTime": "23:27",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0567",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:30",
+    "DepartureTime": "23:32",
+    "UpdateTime": "",
+    "VersionID": 1
+  }
+]

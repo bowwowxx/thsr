@@ -1,0 +1,3302 @@
+[
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0300",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "06:01",
+    "DepartureTime": "06:03",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0802",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "06:28",
+    "DepartureTime": "06:29",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1202",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "06:37",
+    "DepartureTime": "06:38",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1602",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "06:52",
+    "DepartureTime": "06:53",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1302",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "06:58",
+    "DepartureTime": "06:59",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0204",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:06",
+    "DepartureTime": "07:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0606",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:12",
+    "DepartureTime": "07:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0583",
+    "Direction": 0,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:16",
+    "DepartureTime": "07:17",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0206",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:27",
+    "DepartureTime": "07:28",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0806",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:40",
+    "DepartureTime": "07:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0610",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "07:47",
+    "DepartureTime": "07:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0203",
+    "Direction": 0,
+    "StartingStationID": "1000",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:01",
+    "DepartureTime": "08:03",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0612",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:12",
+    "DepartureTime": "08:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0803",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:26",
+    "DepartureTime": "08:28",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0603",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:37",
+    "DepartureTime": "08:38",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0810",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:40",
+    "DepartureTime": "08:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0616",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "08:47",
+    "DepartureTime": "08:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0805",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:11",
+    "DepartureTime": "09:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0618",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:12",
+    "DepartureTime": "09:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0205",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:17",
+    "DepartureTime": "09:18",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0609",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:32",
+    "DepartureTime": "09:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0814",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:40",
+    "DepartureTime": "09:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1305",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:45",
+    "DepartureTime": "09:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0622",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:47",
+    "DepartureTime": "09:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0207",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "09:56",
+    "DepartureTime": "09:58",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0613",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:06",
+    "DepartureTime": "10:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0624",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:12",
+    "DepartureTime": "10:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0809",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:11",
+    "DepartureTime": "10:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0615",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:32",
+    "DepartureTime": "10:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0818",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:40",
+    "DepartureTime": "10:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1307",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:45",
+    "DepartureTime": "10:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0628",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "10:47",
+    "DepartureTime": "10:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0619",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:06",
+    "DepartureTime": "11:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0630",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:12",
+    "DepartureTime": "11:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0813",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:11",
+    "DepartureTime": "11:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0621",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:32",
+    "DepartureTime": "11:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0822",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "11:40",
+    "DepartureTime": "11:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0625",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:06",
+    "DepartureTime": "12:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0636",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:12",
+    "DepartureTime": "12:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0817",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:11",
+    "DepartureTime": "12:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0627",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:32",
+    "DepartureTime": "12:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0826",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:40",
+    "DepartureTime": "12:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0640",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "12:47",
+    "DepartureTime": "12:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0642",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:12",
+    "DepartureTime": "13:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0821",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:11",
+    "DepartureTime": "13:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0633",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:32",
+    "DepartureTime": "13:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0830",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:40",
+    "DepartureTime": "13:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0646",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "13:47",
+    "DepartureTime": "13:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0637",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:06",
+    "DepartureTime": "14:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0648",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:12",
+    "DepartureTime": "14:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0825",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:11",
+    "DepartureTime": "14:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0639",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:32",
+    "DepartureTime": "14:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0834",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:40",
+    "DepartureTime": "14:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0652",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "14:47",
+    "DepartureTime": "14:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0643",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:06",
+    "DepartureTime": "15:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0654",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:12",
+    "DepartureTime": "15:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0829",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:11",
+    "DepartureTime": "15:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1238",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:27",
+    "DepartureTime": "15:28",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0645",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:32",
+    "DepartureTime": "15:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0838",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:40",
+    "DepartureTime": "15:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0658",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "15:47",
+    "DepartureTime": "15:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0649",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:06",
+    "DepartureTime": "16:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0833",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:11",
+    "DepartureTime": "16:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0660",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:12",
+    "DepartureTime": "16:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0242",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:27",
+    "DepartureTime": "16:28",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0651",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:32",
+    "DepartureTime": "16:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0842",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:40",
+    "DepartureTime": "16:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0664",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:47",
+    "DepartureTime": "16:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1322",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "16:56",
+    "DepartureTime": "16:57",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0655",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:06",
+    "DepartureTime": "17:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0837",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:11",
+    "DepartureTime": "17:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0666",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:12",
+    "DepartureTime": "17:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1246",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:27",
+    "DepartureTime": "17:28",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0657",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:32",
+    "DepartureTime": "17:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0846",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:40",
+    "DepartureTime": "17:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1321",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:45",
+    "DepartureTime": "17:47",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0670",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "17:47",
+    "DepartureTime": "17:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0661",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:06",
+    "DepartureTime": "18:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0672",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:12",
+    "DepartureTime": "18:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0841",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:11",
+    "DepartureTime": "18:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1241",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:17",
+    "DepartureTime": "18:18",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0663",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:32",
+    "DepartureTime": "18:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0850",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:40",
+    "DepartureTime": "18:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0676",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "18:47",
+    "DepartureTime": "18:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0667",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:06",
+    "DepartureTime": "19:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0845",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:11",
+    "DepartureTime": "19:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0678",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:12",
+    "DepartureTime": "19:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0669",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:32",
+    "DepartureTime": "19:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0854",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "19:40",
+    "DepartureTime": "19:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0673",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:06",
+    "DepartureTime": "20:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0684",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:12",
+    "DepartureTime": "20:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0849",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:11",
+    "DepartureTime": "20:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0249",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:17",
+    "DepartureTime": "20:18",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0675",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:32",
+    "DepartureTime": "20:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0858",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "20:40",
+    "DepartureTime": "20:41",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0679",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:06",
+    "DepartureTime": "21:07",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0853",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:11",
+    "DepartureTime": "21:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0690",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:17",
+    "DepartureTime": "21:18",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0681",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:32",
+    "DepartureTime": "21:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0862",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "21:43",
+    "DepartureTime": "21:44",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0696",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1000",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:09",
+    "DepartureTime": "22:11",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0857",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:11",
+    "DepartureTime": "22:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0294",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:22",
+    "DepartureTime": "22:23",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0687",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "22:32",
+    "DepartureTime": "22:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0598",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:06",
+    "DepartureTime": "23:08",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0861",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:11",
+    "DepartureTime": "23:13",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0693",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:26",
+    "DepartureTime": "23:28",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "1985",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:32",
+    "DepartureTime": "23:33",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0333",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:41",
+    "DepartureTime": "23:42",
+    "UpdateTime": "",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-04",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "TrainNo": "0295",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "",
+      "En": "",
+      "Ja": "",
+      "Ko": ""
+    },
+    "ArrivalTime": "23:47",
+    "DepartureTime": "23:48",
+    "UpdateTime": "",
+    "VersionID": 1
+  }
+]
