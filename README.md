@@ -6,7 +6,17 @@
 
 https://raw.githubusercontent.com/bowwowxx/thsr/main/timetable/2026-11-03-station-1020.json
 
-站碼對照見 `stations.json`。檔名含日期，目前資料為 2026-11-03，尚未設定自動更新。
+站碼對照見 `stations.json`。檔名含日期，每日由排程自動更新（見下方「每日自動發布」）。
+
+## 每日自動發布
+
+本倉庫由高鐵每日排程自動維護（Hermes cron，Mac mini 每天 06:30 觸發）：
+
+```sh
+~/.hermes/scripts/thsr-daily.sh
+```
+
+流程：`fetch_daily.py` 抓 TDX 當日 12 站（自動呼叫 `prepare_station_daily.py` 展開成逐站檔）→ git commit → push。失敗時排程發通知，不會靜默漏跑。手動重跑用 `python3 fetch_daily.py YYYY-MM-DD`（見下方）。
 
 ## 更新資料
 
@@ -25,6 +35,12 @@ python3 prepare_station_daily.py 2026-11-03
 ```
 
 程式把彙整檔展開成 `timetable/YYYY-MM-DD-station-站碼.json`（12 個逐站檔，TDX 原始欄位格式，站名從 repo 已發布檔補齊），12 站全部通過驗證才原子寫入；站名欄位為空的行仍可用，但終到站名會顯示為站碼。此指令不呼叫 TDX。
+
+兩支指令完成後，把新增的 `timetable/` 檔 commit 並 push（每日排程自動做；手動時）：
+
+```sh
+git add timetable/ && git commit -m "Daily THSR timetable YYYY-MM-DD" && git push
+```
 
 ## 航空資料
 
