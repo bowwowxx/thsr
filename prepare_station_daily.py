@@ -6,7 +6,8 @@ Usage: python3 prepare_station_daily.py YYYY-MM-DD
 Reads timetable/YYYY-MM-DD.json (produced by fetch_daily.py) and writes
 timetable/YYYY-MM-DD-station-<ID>.json for each of the 12 stations, in the
 same flat TDX-array format the firmware downloads. Writes only after every
-station validates; original per-date files are left untouched.
+station validates. After all 12 writes succeed, remove older station files;
+original consolidated per-date files are left untouched.
 """
 import json
 import os
@@ -125,6 +126,13 @@ def run(train_date: Optional[str] = None) -> None:
         total += count
         atomic_write(path, text)
         print(f'wrote {path.name} ({count} rows, {len(text)} bytes)')
+    # Delete older station files only after every current station write succeeds.
+    for path in sorted(TIMETABLE.iterdir()):
+        match = re.fullmatch(r'(\d{4}-\d{2}-\d{2})-station-(\d{4})\.json', path.name)
+        if (match and match.group(1) < train_date
+                and match.group(2) in STATIONS and path.is_file()):
+            path.unlink()
+            print(f'removed {path.name}')
     print(f'{train_date}: published {len(STATIONS)} station files, {total} rows total')
 
 
