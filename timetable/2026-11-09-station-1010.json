@@ -1,6 +1,6 @@
 [
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -26,11 +26,11 @@
     },
     "ArrivalTime": "06:33",
     "DepartureTime": "06:34",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -56,11 +56,41 @@
     },
     "ArrivalTime": "06:37",
     "DepartureTime": "06:38",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "板橋",
+      "Ja": "板橋",
+      "Ko": "板橋"
+    },
+    "TrainNo": "1103",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "06:53",
+    "DepartureTime": "06:54",
+    "UpdateTime": "2026-11-09",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -86,11 +116,11 @@
     },
     "ArrivalTime": "06:59",
     "DepartureTime": "07:00",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -116,11 +146,11 @@
     },
     "ArrivalTime": "07:01",
     "DepartureTime": "07:02",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -146,11 +176,11 @@
     },
     "ArrivalTime": "07:18",
     "DepartureTime": "07:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -176,11 +206,11 @@
     },
     "ArrivalTime": "07:26",
     "DepartureTime": "07:27",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -206,11 +236,11 @@
     },
     "ArrivalTime": "07:38",
     "DepartureTime": "07:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -236,11 +266,11 @@
     },
     "ArrivalTime": "07:45",
     "DepartureTime": "07:46",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -266,11 +296,11 @@
     },
     "ArrivalTime": "07:49",
     "DepartureTime": "07:50",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -296,11 +326,11 @@
     },
     "ArrivalTime": "07:54",
     "DepartureTime": "07:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -326,11 +356,11 @@
     },
     "ArrivalTime": "07:58",
     "DepartureTime": "07:59",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -356,11 +386,11 @@
     },
     "ArrivalTime": "08:09",
     "DepartureTime": "08:10",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -386,11 +416,11 @@
     },
     "ArrivalTime": "08:18",
     "DepartureTime": "08:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -416,11 +446,11 @@
     },
     "ArrivalTime": "08:21",
     "DepartureTime": "08:22",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -446,11 +476,11 @@
     },
     "ArrivalTime": "08:26",
     "DepartureTime": "08:27",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -476,11 +506,11 @@
     },
     "ArrivalTime": "08:28",
     "DepartureTime": "08:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -506,11 +536,11 @@
     },
     "ArrivalTime": "08:30",
     "DepartureTime": "08:31",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -536,11 +566,11 @@
     },
     "ArrivalTime": "08:38",
     "DepartureTime": "08:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -566,11 +596,11 @@
     },
     "ArrivalTime": "08:46",
     "DepartureTime": "08:47",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -596,11 +626,11 @@
     },
     "ArrivalTime": "08:50",
     "DepartureTime": "08:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -626,11 +656,41 @@
     },
     "ArrivalTime": "08:54",
     "DepartureTime": "08:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "板橋",
+      "Ja": "板橋",
+      "Ko": "板橋"
+    },
+    "TrainNo": "1209",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "08:58",
+    "DepartureTime": "08:59",
+    "UpdateTime": "2026-11-09",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -656,11 +716,11 @@
     },
     "ArrivalTime": "09:04",
     "DepartureTime": "09:05",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -686,11 +746,11 @@
     },
     "ArrivalTime": "09:18",
     "DepartureTime": "09:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -716,11 +776,11 @@
     },
     "ArrivalTime": "09:20",
     "DepartureTime": "09:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -746,11 +806,11 @@
     },
     "ArrivalTime": "09:24",
     "DepartureTime": "09:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -776,11 +836,11 @@
     },
     "ArrivalTime": "09:28",
     "DepartureTime": "09:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -806,11 +866,11 @@
     },
     "ArrivalTime": "09:31",
     "DepartureTime": "09:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -836,11 +896,41 @@
     },
     "ArrivalTime": "09:38",
     "DepartureTime": "09:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "板橋",
+      "Ja": "板橋",
+      "Ko": "板橋"
+    },
+    "TrainNo": "1210",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "09:46",
+    "DepartureTime": "09:47",
+    "UpdateTime": "2026-11-09",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -866,11 +956,11 @@
     },
     "ArrivalTime": "09:50",
     "DepartureTime": "09:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -896,11 +986,41 @@
     },
     "ArrivalTime": "09:54",
     "DepartureTime": "09:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "板橋",
+      "Ja": "板橋",
+      "Ko": "板橋"
+    },
+    "TrainNo": "1213",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "09:58",
+    "DepartureTime": "09:59",
+    "UpdateTime": "2026-11-09",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -926,11 +1046,11 @@
     },
     "ArrivalTime": "10:18",
     "DepartureTime": "10:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -956,11 +1076,11 @@
     },
     "ArrivalTime": "10:20",
     "DepartureTime": "10:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -986,11 +1106,11 @@
     },
     "ArrivalTime": "10:24",
     "DepartureTime": "10:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1016,11 +1136,11 @@
     },
     "ArrivalTime": "10:28",
     "DepartureTime": "10:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1046,11 +1166,11 @@
     },
     "ArrivalTime": "10:31",
     "DepartureTime": "10:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1076,11 +1196,11 @@
     },
     "ArrivalTime": "10:38",
     "DepartureTime": "10:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1106,11 +1226,11 @@
     },
     "ArrivalTime": "10:50",
     "DepartureTime": "10:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1136,11 +1256,11 @@
     },
     "ArrivalTime": "10:54",
     "DepartureTime": "10:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1166,11 +1286,11 @@
     },
     "ArrivalTime": "11:18",
     "DepartureTime": "11:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1196,11 +1316,11 @@
     },
     "ArrivalTime": "11:20",
     "DepartureTime": "11:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1226,11 +1346,41 @@
     },
     "ArrivalTime": "11:24",
     "DepartureTime": "11:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "板橋",
+      "Ja": "板橋",
+      "Ko": "板橋"
+    },
+    "TrainNo": "1631",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "11:28",
+    "DepartureTime": "11:29",
+    "UpdateTime": "2026-11-09",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1256,11 +1406,11 @@
     },
     "ArrivalTime": "11:31",
     "DepartureTime": "11:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1286,11 +1436,41 @@
     },
     "ArrivalTime": "11:38",
     "DepartureTime": "11:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "板橋",
+      "Ja": "板橋",
+      "Ko": "板橋"
+    },
+    "TrainNo": "1218",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "11:46",
+    "DepartureTime": "11:47",
+    "UpdateTime": "2026-11-09",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1316,11 +1496,11 @@
     },
     "ArrivalTime": "11:50",
     "DepartureTime": "11:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1346,11 +1526,11 @@
     },
     "ArrivalTime": "11:54",
     "DepartureTime": "11:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1376,11 +1556,11 @@
     },
     "ArrivalTime": "12:18",
     "DepartureTime": "12:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1406,11 +1586,11 @@
     },
     "ArrivalTime": "12:20",
     "DepartureTime": "12:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1436,11 +1616,11 @@
     },
     "ArrivalTime": "12:24",
     "DepartureTime": "12:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1466,11 +1646,11 @@
     },
     "ArrivalTime": "12:28",
     "DepartureTime": "12:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1496,11 +1676,11 @@
     },
     "ArrivalTime": "12:31",
     "DepartureTime": "12:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1526,11 +1706,11 @@
     },
     "ArrivalTime": "12:38",
     "DepartureTime": "12:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1556,11 +1736,11 @@
     },
     "ArrivalTime": "12:50",
     "DepartureTime": "12:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1586,11 +1766,11 @@
     },
     "ArrivalTime": "12:54",
     "DepartureTime": "12:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1616,11 +1796,11 @@
     },
     "ArrivalTime": "13:18",
     "DepartureTime": "13:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1646,11 +1826,41 @@
     },
     "ArrivalTime": "13:20",
     "DepartureTime": "13:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "板橋",
+      "Ja": "板橋",
+      "Ko": "板橋"
+    },
+    "TrainNo": "1634",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "13:24",
+    "DepartureTime": "13:25",
+    "UpdateTime": "2026-11-09",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1676,11 +1886,11 @@
     },
     "ArrivalTime": "13:28",
     "DepartureTime": "13:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1706,11 +1916,11 @@
     },
     "ArrivalTime": "13:31",
     "DepartureTime": "13:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1736,11 +1946,11 @@
     },
     "ArrivalTime": "13:38",
     "DepartureTime": "13:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1766,11 +1976,11 @@
     },
     "ArrivalTime": "13:50",
     "DepartureTime": "13:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1796,11 +2006,11 @@
     },
     "ArrivalTime": "13:54",
     "DepartureTime": "13:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1826,11 +2036,11 @@
     },
     "ArrivalTime": "14:18",
     "DepartureTime": "14:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1856,11 +2066,11 @@
     },
     "ArrivalTime": "14:20",
     "DepartureTime": "14:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1886,11 +2096,11 @@
     },
     "ArrivalTime": "14:24",
     "DepartureTime": "14:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1916,11 +2126,11 @@
     },
     "ArrivalTime": "14:28",
     "DepartureTime": "14:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1946,11 +2156,11 @@
     },
     "ArrivalTime": "14:31",
     "DepartureTime": "14:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -1976,11 +2186,11 @@
     },
     "ArrivalTime": "14:38",
     "DepartureTime": "14:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2006,11 +2216,11 @@
     },
     "ArrivalTime": "14:50",
     "DepartureTime": "14:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2036,11 +2246,11 @@
     },
     "ArrivalTime": "14:54",
     "DepartureTime": "14:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2066,11 +2276,11 @@
     },
     "ArrivalTime": "15:18",
     "DepartureTime": "15:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2096,11 +2306,11 @@
     },
     "ArrivalTime": "15:20",
     "DepartureTime": "15:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2126,11 +2336,11 @@
     },
     "ArrivalTime": "15:24",
     "DepartureTime": "15:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2156,11 +2366,11 @@
     },
     "ArrivalTime": "15:28",
     "DepartureTime": "15:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2186,11 +2396,11 @@
     },
     "ArrivalTime": "15:31",
     "DepartureTime": "15:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2216,11 +2426,11 @@
     },
     "ArrivalTime": "15:38",
     "DepartureTime": "15:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2246,11 +2456,11 @@
     },
     "ArrivalTime": "15:50",
     "DepartureTime": "15:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2276,11 +2486,11 @@
     },
     "ArrivalTime": "15:54",
     "DepartureTime": "15:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2306,11 +2516,11 @@
     },
     "ArrivalTime": "16:18",
     "DepartureTime": "16:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2336,11 +2546,11 @@
     },
     "ArrivalTime": "16:20",
     "DepartureTime": "16:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2366,11 +2576,11 @@
     },
     "ArrivalTime": "16:24",
     "DepartureTime": "16:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2396,11 +2606,11 @@
     },
     "ArrivalTime": "16:28",
     "DepartureTime": "16:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2426,11 +2636,11 @@
     },
     "ArrivalTime": "16:31",
     "DepartureTime": "16:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2456,11 +2666,11 @@
     },
     "ArrivalTime": "16:38",
     "DepartureTime": "16:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2486,11 +2696,11 @@
     },
     "ArrivalTime": "16:46",
     "DepartureTime": "16:47",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2516,11 +2726,11 @@
     },
     "ArrivalTime": "16:50",
     "DepartureTime": "16:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2546,11 +2756,11 @@
     },
     "ArrivalTime": "16:54",
     "DepartureTime": "16:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2576,11 +2786,11 @@
     },
     "ArrivalTime": "16:58",
     "DepartureTime": "16:59",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2606,11 +2816,11 @@
     },
     "ArrivalTime": "17:18",
     "DepartureTime": "17:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2636,11 +2846,11 @@
     },
     "ArrivalTime": "17:20",
     "DepartureTime": "17:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2666,11 +2876,11 @@
     },
     "ArrivalTime": "17:24",
     "DepartureTime": "17:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2696,11 +2906,11 @@
     },
     "ArrivalTime": "17:28",
     "DepartureTime": "17:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2726,11 +2936,11 @@
     },
     "ArrivalTime": "17:31",
     "DepartureTime": "17:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2756,11 +2966,11 @@
     },
     "ArrivalTime": "17:38",
     "DepartureTime": "17:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2786,11 +2996,11 @@
     },
     "ArrivalTime": "17:46",
     "DepartureTime": "17:47",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2816,11 +3026,11 @@
     },
     "ArrivalTime": "17:50",
     "DepartureTime": "17:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2846,11 +3056,11 @@
     },
     "ArrivalTime": "17:54",
     "DepartureTime": "17:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2876,11 +3086,11 @@
     },
     "ArrivalTime": "18:03",
     "DepartureTime": "18:04",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2906,11 +3116,11 @@
     },
     "ArrivalTime": "18:04",
     "DepartureTime": "18:05",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2936,11 +3146,11 @@
     },
     "ArrivalTime": "18:18",
     "DepartureTime": "18:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2966,11 +3176,11 @@
     },
     "ArrivalTime": "18:20",
     "DepartureTime": "18:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -2996,11 +3206,11 @@
     },
     "ArrivalTime": "18:24",
     "DepartureTime": "18:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3026,11 +3236,11 @@
     },
     "ArrivalTime": "18:28",
     "DepartureTime": "18:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3056,11 +3266,11 @@
     },
     "ArrivalTime": "18:31",
     "DepartureTime": "18:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3086,11 +3296,11 @@
     },
     "ArrivalTime": "18:38",
     "DepartureTime": "18:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3116,11 +3326,11 @@
     },
     "ArrivalTime": "18:45",
     "DepartureTime": "18:46",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3146,11 +3356,11 @@
     },
     "ArrivalTime": "18:46",
     "DepartureTime": "18:47",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3176,11 +3386,11 @@
     },
     "ArrivalTime": "18:50",
     "DepartureTime": "18:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3206,11 +3416,11 @@
     },
     "ArrivalTime": "18:54",
     "DepartureTime": "18:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3236,11 +3446,11 @@
     },
     "ArrivalTime": "18:58",
     "DepartureTime": "18:59",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3266,11 +3476,11 @@
     },
     "ArrivalTime": "19:18",
     "DepartureTime": "19:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3296,11 +3506,11 @@
     },
     "ArrivalTime": "19:20",
     "DepartureTime": "19:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3326,11 +3536,11 @@
     },
     "ArrivalTime": "19:24",
     "DepartureTime": "19:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3356,11 +3566,11 @@
     },
     "ArrivalTime": "19:28",
     "DepartureTime": "19:29",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3386,11 +3596,11 @@
     },
     "ArrivalTime": "19:31",
     "DepartureTime": "19:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3416,11 +3626,11 @@
     },
     "ArrivalTime": "19:38",
     "DepartureTime": "19:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3446,11 +3656,11 @@
     },
     "ArrivalTime": "19:50",
     "DepartureTime": "19:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3476,11 +3686,11 @@
     },
     "ArrivalTime": "19:54",
     "DepartureTime": "19:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3506,11 +3716,11 @@
     },
     "ArrivalTime": "20:18",
     "DepartureTime": "20:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3536,11 +3746,11 @@
     },
     "ArrivalTime": "20:20",
     "DepartureTime": "20:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3566,11 +3776,11 @@
     },
     "ArrivalTime": "20:24",
     "DepartureTime": "20:25",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3596,11 +3806,11 @@
     },
     "ArrivalTime": "20:31",
     "DepartureTime": "20:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3626,11 +3836,11 @@
     },
     "ArrivalTime": "20:38",
     "DepartureTime": "20:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3656,11 +3866,11 @@
     },
     "ArrivalTime": "20:50",
     "DepartureTime": "20:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3686,11 +3896,11 @@
     },
     "ArrivalTime": "20:54",
     "DepartureTime": "20:55",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3716,11 +3926,11 @@
     },
     "ArrivalTime": "21:18",
     "DepartureTime": "21:19",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3746,11 +3956,11 @@
     },
     "ArrivalTime": "21:20",
     "DepartureTime": "21:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3776,11 +3986,11 @@
     },
     "ArrivalTime": "21:31",
     "DepartureTime": "21:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3806,11 +4016,11 @@
     },
     "ArrivalTime": "21:38",
     "DepartureTime": "21:39",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3836,11 +4046,11 @@
     },
     "ArrivalTime": "21:49",
     "DepartureTime": "21:50",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3866,11 +4076,11 @@
     },
     "ArrivalTime": "21:50",
     "DepartureTime": "21:51",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3896,11 +4106,11 @@
     },
     "ArrivalTime": "22:17",
     "DepartureTime": "22:18",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3926,11 +4136,11 @@
     },
     "ArrivalTime": "22:20",
     "DepartureTime": "22:21",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3956,11 +4166,11 @@
     },
     "ArrivalTime": "22:31",
     "DepartureTime": "22:32",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -3986,11 +4196,11 @@
     },
     "ArrivalTime": "22:34",
     "DepartureTime": "22:35",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -4016,11 +4226,11 @@
     },
     "ArrivalTime": "22:55",
     "DepartureTime": "22:56",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -4046,11 +4256,11 @@
     },
     "ArrivalTime": "23:07",
     "DepartureTime": "23:08",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -4076,11 +4286,11 @@
     },
     "ArrivalTime": "23:36",
     "DepartureTime": "23:37",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -4106,11 +4316,11 @@
     },
     "ArrivalTime": "23:41",
     "DepartureTime": "23:42",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-04",
+    "TrainDate": "2026-11-09",
     "StationID": "1010",
     "StationName": {
       "Zh_tw": "板橋",
@@ -4136,7 +4346,7 @@
     },
     "ArrivalTime": "23:51",
     "DepartureTime": "23:52",
-    "UpdateTime": "2026-11-04",
+    "UpdateTime": "2026-11-09",
     "VersionID": 1
   }
 ]
