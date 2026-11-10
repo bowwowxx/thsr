@@ -1,6 +1,6 @@
 [
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -26,11 +26,11 @@
     },
     "ArrivalTime": "06:01",
     "DepartureTime": "06:03",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -56,11 +56,11 @@
     },
     "ArrivalTime": "06:28",
     "DepartureTime": "06:29",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -86,11 +86,11 @@
     },
     "ArrivalTime": "06:37",
     "DepartureTime": "06:38",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -116,11 +116,11 @@
     },
     "ArrivalTime": "06:52",
     "DepartureTime": "06:53",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -146,11 +146,11 @@
     },
     "ArrivalTime": "06:58",
     "DepartureTime": "06:59",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -176,11 +176,11 @@
     },
     "ArrivalTime": "07:06",
     "DepartureTime": "07:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -206,11 +206,11 @@
     },
     "ArrivalTime": "07:12",
     "DepartureTime": "07:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -236,11 +236,11 @@
     },
     "ArrivalTime": "07:16",
     "DepartureTime": "07:17",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -266,11 +266,11 @@
     },
     "ArrivalTime": "07:27",
     "DepartureTime": "07:28",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -296,11 +296,11 @@
     },
     "ArrivalTime": "07:40",
     "DepartureTime": "07:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -326,11 +326,11 @@
     },
     "ArrivalTime": "07:47",
     "DepartureTime": "07:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -356,11 +356,11 @@
     },
     "ArrivalTime": "08:01",
     "DepartureTime": "08:03",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -386,41 +386,11 @@
     },
     "ArrivalTime": "08:12",
     "DepartureTime": "08:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "1210",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "08:27",
-    "DepartureTime": "08:28",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -446,11 +416,11 @@
     },
     "ArrivalTime": "08:26",
     "DepartureTime": "08:28",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -476,11 +446,11 @@
     },
     "ArrivalTime": "08:37",
     "DepartureTime": "08:38",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -506,11 +476,11 @@
     },
     "ArrivalTime": "08:40",
     "DepartureTime": "08:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -536,41 +506,11 @@
     },
     "ArrivalTime": "08:47",
     "DepartureTime": "08:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0805",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "09:11",
-    "DepartureTime": "09:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -596,11 +536,41 @@
     },
     "ArrivalTime": "09:12",
     "DepartureTime": "09:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "台南",
+      "Ja": "台南",
+      "Ko": "台南"
+    },
+    "TrainNo": "0805",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "09:11",
+    "DepartureTime": "09:13",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -626,11 +596,11 @@
     },
     "ArrivalTime": "09:17",
     "DepartureTime": "09:18",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -656,11 +626,11 @@
     },
     "ArrivalTime": "09:32",
     "DepartureTime": "09:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -686,11 +656,11 @@
     },
     "ArrivalTime": "09:40",
     "DepartureTime": "09:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -716,11 +686,11 @@
     },
     "ArrivalTime": "09:45",
     "DepartureTime": "09:47",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -746,11 +716,11 @@
     },
     "ArrivalTime": "09:47",
     "DepartureTime": "09:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -776,11 +746,11 @@
     },
     "ArrivalTime": "09:56",
     "DepartureTime": "09:58",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -806,41 +776,11 @@
     },
     "ArrivalTime": "10:06",
     "DepartureTime": "10:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0624",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "10:12",
-    "DepartureTime": "10:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -866,11 +806,11 @@
     },
     "ArrivalTime": "10:11",
     "DepartureTime": "10:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -878,37 +818,7 @@
       "Ja": "台南",
       "Ko": "台南"
     },
-    "TrainNo": "1209",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "10:17",
-    "DepartureTime": "10:18",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "1218",
+    "TrainNo": "0624",
     "Direction": 1,
     "StartingStationID": "1070",
     "StartingStationName": {
@@ -924,13 +834,13 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "10:27",
-    "DepartureTime": "10:28",
-    "UpdateTime": "2026-11-09",
+    "ArrivalTime": "10:12",
+    "DepartureTime": "10:13",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -956,11 +866,11 @@
     },
     "ArrivalTime": "10:32",
     "DepartureTime": "10:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -986,11 +896,41 @@
     },
     "ArrivalTime": "10:40",
     "DepartureTime": "10:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "台南",
+      "Ja": "台南",
+      "Ko": "台南"
+    },
+    "TrainNo": "1307",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "10:45",
+    "DepartureTime": "10:47",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1016,11 +956,11 @@
     },
     "ArrivalTime": "10:47",
     "DepartureTime": "10:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1046,41 +986,11 @@
     },
     "ArrivalTime": "11:06",
     "DepartureTime": "11:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0630",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "11:12",
-    "DepartureTime": "11:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1106,11 +1016,11 @@
     },
     "ArrivalTime": "11:11",
     "DepartureTime": "11:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1118,29 +1028,29 @@
       "Ja": "台南",
       "Ko": "台南"
     },
-    "TrainNo": "1213",
-    "Direction": 0,
-    "StartingStationID": "0990",
+    "TrainNo": "0630",
+    "Direction": 1,
+    "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
       "Zh_tw": "左營",
       "En": "左營",
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "11:17",
-    "DepartureTime": "11:18",
-    "UpdateTime": "2026-11-09",
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "11:12",
+    "DepartureTime": "11:13",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1166,11 +1076,11 @@
     },
     "ArrivalTime": "11:32",
     "DepartureTime": "11:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1196,41 +1106,11 @@
     },
     "ArrivalTime": "11:40",
     "DepartureTime": "11:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "1634",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "11:47",
-    "DepartureTime": "11:48",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1256,11 +1136,11 @@
     },
     "ArrivalTime": "12:06",
     "DepartureTime": "12:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1286,11 +1166,11 @@
     },
     "ArrivalTime": "12:11",
     "DepartureTime": "12:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1316,11 +1196,11 @@
     },
     "ArrivalTime": "12:12",
     "DepartureTime": "12:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1346,11 +1226,11 @@
     },
     "ArrivalTime": "12:32",
     "DepartureTime": "12:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1376,41 +1256,11 @@
     },
     "ArrivalTime": "12:40",
     "DepartureTime": "12:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "1311",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "12:45",
-    "DepartureTime": "12:47",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1436,71 +1286,11 @@
     },
     "ArrivalTime": "12:47",
     "DepartureTime": "12:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "1631",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "13:06",
-    "DepartureTime": "13:07",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0821",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "13:11",
-    "DepartureTime": "13:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1526,11 +1316,41 @@
     },
     "ArrivalTime": "13:12",
     "DepartureTime": "13:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "台南",
+      "Ja": "台南",
+      "Ko": "台南"
+    },
+    "TrainNo": "0821",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "13:11",
+    "DepartureTime": "13:13",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1556,11 +1376,11 @@
     },
     "ArrivalTime": "13:32",
     "DepartureTime": "13:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1586,11 +1406,11 @@
     },
     "ArrivalTime": "13:40",
     "DepartureTime": "13:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1616,11 +1436,11 @@
     },
     "ArrivalTime": "13:47",
     "DepartureTime": "13:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1646,41 +1466,11 @@
     },
     "ArrivalTime": "14:06",
     "DepartureTime": "14:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0825",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "14:11",
-    "DepartureTime": "14:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1706,11 +1496,41 @@
     },
     "ArrivalTime": "14:12",
     "DepartureTime": "14:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "台南",
+      "Ja": "台南",
+      "Ko": "台南"
+    },
+    "TrainNo": "0825",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "14:11",
+    "DepartureTime": "14:13",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1736,11 +1556,11 @@
     },
     "ArrivalTime": "14:32",
     "DepartureTime": "14:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1766,11 +1586,11 @@
     },
     "ArrivalTime": "14:40",
     "DepartureTime": "14:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1796,11 +1616,11 @@
     },
     "ArrivalTime": "14:47",
     "DepartureTime": "14:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1826,41 +1646,11 @@
     },
     "ArrivalTime": "15:06",
     "DepartureTime": "15:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0829",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "15:11",
-    "DepartureTime": "15:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1886,11 +1676,41 @@
     },
     "ArrivalTime": "15:12",
     "DepartureTime": "15:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "台南",
+      "Ja": "台南",
+      "Ko": "台南"
+    },
+    "TrainNo": "0829",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "15:11",
+    "DepartureTime": "15:13",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1916,11 +1736,11 @@
     },
     "ArrivalTime": "15:27",
     "DepartureTime": "15:28",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1946,11 +1766,11 @@
     },
     "ArrivalTime": "15:32",
     "DepartureTime": "15:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -1976,11 +1796,11 @@
     },
     "ArrivalTime": "15:40",
     "DepartureTime": "15:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2006,11 +1826,11 @@
     },
     "ArrivalTime": "15:47",
     "DepartureTime": "15:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2036,11 +1856,11 @@
     },
     "ArrivalTime": "16:06",
     "DepartureTime": "16:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2066,11 +1886,11 @@
     },
     "ArrivalTime": "16:12",
     "DepartureTime": "16:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2096,11 +1916,11 @@
     },
     "ArrivalTime": "16:11",
     "DepartureTime": "16:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2126,11 +1946,11 @@
     },
     "ArrivalTime": "16:27",
     "DepartureTime": "16:28",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2156,11 +1976,11 @@
     },
     "ArrivalTime": "16:32",
     "DepartureTime": "16:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2186,11 +2006,11 @@
     },
     "ArrivalTime": "16:40",
     "DepartureTime": "16:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2216,11 +2036,11 @@
     },
     "ArrivalTime": "16:47",
     "DepartureTime": "16:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2246,11 +2066,11 @@
     },
     "ArrivalTime": "16:56",
     "DepartureTime": "16:57",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2276,41 +2096,11 @@
     },
     "ArrivalTime": "17:06",
     "DepartureTime": "17:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0837",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "17:11",
-    "DepartureTime": "17:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2336,11 +2126,41 @@
     },
     "ArrivalTime": "17:12",
     "DepartureTime": "17:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "台南",
+      "Ja": "台南",
+      "Ko": "台南"
+    },
+    "TrainNo": "0837",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "17:11",
+    "DepartureTime": "17:13",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2366,11 +2186,11 @@
     },
     "ArrivalTime": "17:27",
     "DepartureTime": "17:28",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2396,11 +2216,11 @@
     },
     "ArrivalTime": "17:32",
     "DepartureTime": "17:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2426,11 +2246,11 @@
     },
     "ArrivalTime": "17:40",
     "DepartureTime": "17:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2456,11 +2276,11 @@
     },
     "ArrivalTime": "17:45",
     "DepartureTime": "17:47",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2486,11 +2306,11 @@
     },
     "ArrivalTime": "17:47",
     "DepartureTime": "17:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2516,41 +2336,11 @@
     },
     "ArrivalTime": "18:06",
     "DepartureTime": "18:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1060",
-    "StationName": {
-      "Zh_tw": "台南",
-      "En": "台南",
-      "Ja": "台南",
-      "Ko": "台南"
-    },
-    "TrainNo": "0672",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "18:12",
-    "DepartureTime": "18:13",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2576,11 +2366,41 @@
     },
     "ArrivalTime": "18:11",
     "DepartureTime": "18:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "台南",
+      "Ja": "台南",
+      "Ko": "台南"
+    },
+    "TrainNo": "0672",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "18:12",
+    "DepartureTime": "18:13",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2606,11 +2426,11 @@
     },
     "ArrivalTime": "18:17",
     "DepartureTime": "18:18",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2636,11 +2456,11 @@
     },
     "ArrivalTime": "18:32",
     "DepartureTime": "18:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2666,11 +2486,11 @@
     },
     "ArrivalTime": "18:40",
     "DepartureTime": "18:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2696,11 +2516,11 @@
     },
     "ArrivalTime": "18:47",
     "DepartureTime": "18:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2726,11 +2546,11 @@
     },
     "ArrivalTime": "19:06",
     "DepartureTime": "19:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2756,11 +2576,11 @@
     },
     "ArrivalTime": "19:11",
     "DepartureTime": "19:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2786,11 +2606,11 @@
     },
     "ArrivalTime": "19:12",
     "DepartureTime": "19:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2816,11 +2636,11 @@
     },
     "ArrivalTime": "19:32",
     "DepartureTime": "19:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2846,11 +2666,11 @@
     },
     "ArrivalTime": "19:40",
     "DepartureTime": "19:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2876,11 +2696,11 @@
     },
     "ArrivalTime": "20:06",
     "DepartureTime": "20:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2906,11 +2726,11 @@
     },
     "ArrivalTime": "20:12",
     "DepartureTime": "20:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2936,11 +2756,11 @@
     },
     "ArrivalTime": "20:11",
     "DepartureTime": "20:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2966,11 +2786,11 @@
     },
     "ArrivalTime": "20:17",
     "DepartureTime": "20:18",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -2996,11 +2816,11 @@
     },
     "ArrivalTime": "20:32",
     "DepartureTime": "20:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3026,11 +2846,11 @@
     },
     "ArrivalTime": "20:40",
     "DepartureTime": "20:41",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3056,11 +2876,11 @@
     },
     "ArrivalTime": "21:06",
     "DepartureTime": "21:07",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3086,11 +2906,11 @@
     },
     "ArrivalTime": "21:11",
     "DepartureTime": "21:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3116,11 +2936,11 @@
     },
     "ArrivalTime": "21:17",
     "DepartureTime": "21:18",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3146,11 +2966,11 @@
     },
     "ArrivalTime": "21:32",
     "DepartureTime": "21:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3176,11 +2996,11 @@
     },
     "ArrivalTime": "21:43",
     "DepartureTime": "21:44",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3206,11 +3026,11 @@
     },
     "ArrivalTime": "22:09",
     "DepartureTime": "22:11",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3236,11 +3056,11 @@
     },
     "ArrivalTime": "22:11",
     "DepartureTime": "22:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3266,11 +3086,11 @@
     },
     "ArrivalTime": "22:22",
     "DepartureTime": "22:23",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3296,11 +3116,11 @@
     },
     "ArrivalTime": "22:32",
     "DepartureTime": "22:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3326,11 +3146,11 @@
     },
     "ArrivalTime": "23:06",
     "DepartureTime": "23:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3356,11 +3176,11 @@
     },
     "ArrivalTime": "23:11",
     "DepartureTime": "23:13",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3386,11 +3206,11 @@
     },
     "ArrivalTime": "23:26",
     "DepartureTime": "23:28",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3416,11 +3236,11 @@
     },
     "ArrivalTime": "23:32",
     "DepartureTime": "23:33",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3446,11 +3266,11 @@
     },
     "ArrivalTime": "23:41",
     "DepartureTime": "23:42",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1060",
     "StationName": {
       "Zh_tw": "台南",
@@ -3476,7 +3296,7 @@
     },
     "ArrivalTime": "23:47",
     "DepartureTime": "23:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   }
 ]

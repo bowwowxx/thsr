@@ -1,6 +1,6 @@
 [
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -26,11 +26,11 @@
     },
     "ArrivalTime": "06:20",
     "DepartureTime": "06:21",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -56,11 +56,11 @@
     },
     "ArrivalTime": "06:46",
     "DepartureTime": "06:48",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -86,11 +86,11 @@
     },
     "ArrivalTime": "06:55",
     "DepartureTime": "06:57",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -116,11 +116,11 @@
     },
     "ArrivalTime": "06:57",
     "DepartureTime": "06:59",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -146,11 +146,11 @@
     },
     "ArrivalTime": "07:10",
     "DepartureTime": "07:12",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -176,11 +176,11 @@
     },
     "ArrivalTime": "07:17",
     "DepartureTime": "07:19",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -206,11 +206,11 @@
     },
     "ArrivalTime": "07:30",
     "DepartureTime": "07:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -236,11 +236,11 @@
     },
     "ArrivalTime": "07:43",
     "DepartureTime": "07:45",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -266,11 +266,11 @@
     },
     "ArrivalTime": "07:58",
     "DepartureTime": "08:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -296,11 +296,11 @@
     },
     "ArrivalTime": "08:06",
     "DepartureTime": "08:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -326,11 +326,11 @@
     },
     "ArrivalTime": "08:09",
     "DepartureTime": "08:10",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -356,11 +356,11 @@
     },
     "ArrivalTime": "08:18",
     "DepartureTime": "08:19",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -386,11 +386,11 @@
     },
     "ArrivalTime": "08:30",
     "DepartureTime": "08:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -416,11 +416,11 @@
     },
     "ArrivalTime": "08:54",
     "DepartureTime": "08:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -446,11 +446,11 @@
     },
     "ArrivalTime": "08:58",
     "DepartureTime": "09:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -476,11 +476,11 @@
     },
     "ArrivalTime": "09:06",
     "DepartureTime": "09:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -506,11 +506,11 @@
     },
     "ArrivalTime": "09:13",
     "DepartureTime": "09:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -536,11 +536,11 @@
     },
     "ArrivalTime": "09:28",
     "DepartureTime": "09:29",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -566,11 +566,11 @@
     },
     "ArrivalTime": "09:30",
     "DepartureTime": "09:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -596,11 +596,11 @@
     },
     "ArrivalTime": "09:48",
     "DepartureTime": "09:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -626,11 +626,11 @@
     },
     "ArrivalTime": "09:54",
     "DepartureTime": "09:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -656,11 +656,11 @@
     },
     "ArrivalTime": "09:58",
     "DepartureTime": "10:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -686,11 +686,11 @@
     },
     "ArrivalTime": "10:06",
     "DepartureTime": "10:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -716,11 +716,41 @@
     },
     "ArrivalTime": "10:13",
     "DepartureTime": "10:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
+    "StationID": "1050",
+    "StationName": {
+      "Zh_tw": "嘉義",
+      "En": "嘉義",
+      "Ja": "嘉義",
+      "Ko": "嘉義"
+    },
+    "TrainNo": "1307",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "10:28",
+    "DepartureTime": "10:29",
+    "UpdateTime": "2026-11-10",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -746,11 +776,11 @@
     },
     "ArrivalTime": "10:30",
     "DepartureTime": "10:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -776,11 +806,11 @@
     },
     "ArrivalTime": "10:48",
     "DepartureTime": "10:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -806,11 +836,11 @@
     },
     "ArrivalTime": "10:54",
     "DepartureTime": "10:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -836,11 +866,11 @@
     },
     "ArrivalTime": "10:58",
     "DepartureTime": "11:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -866,11 +896,11 @@
     },
     "ArrivalTime": "11:06",
     "DepartureTime": "11:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -896,11 +926,11 @@
     },
     "ArrivalTime": "11:13",
     "DepartureTime": "11:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -926,11 +956,11 @@
     },
     "ArrivalTime": "11:30",
     "DepartureTime": "11:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -956,11 +986,11 @@
     },
     "ArrivalTime": "11:48",
     "DepartureTime": "11:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -986,11 +1016,11 @@
     },
     "ArrivalTime": "11:54",
     "DepartureTime": "11:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1016,41 +1046,11 @@
     },
     "ArrivalTime": "11:58",
     "DepartureTime": "12:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1050",
-    "StationName": {
-      "Zh_tw": "嘉義",
-      "En": "嘉義",
-      "Ja": "嘉義",
-      "Ko": "嘉義"
-    },
-    "TrainNo": "1634",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "12:06",
-    "DepartureTime": "12:08",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1076,41 +1076,11 @@
     },
     "ArrivalTime": "12:13",
     "DepartureTime": "12:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1050",
-    "StationName": {
-      "Zh_tw": "嘉義",
-      "En": "嘉義",
-      "Ja": "嘉義",
-      "Ko": "嘉義"
-    },
-    "TrainNo": "1311",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "12:28",
-    "DepartureTime": "12:29",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1136,41 +1106,11 @@
     },
     "ArrivalTime": "12:30",
     "DepartureTime": "12:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
-    "StationID": "1050",
-    "StationName": {
-      "Zh_tw": "嘉義",
-      "En": "嘉義",
-      "Ja": "嘉義",
-      "Ko": "嘉義"
-    },
-    "TrainNo": "1631",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "12:48",
-    "DepartureTime": "12:50",
-    "UpdateTime": "2026-11-09",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1196,11 +1136,11 @@
     },
     "ArrivalTime": "12:54",
     "DepartureTime": "12:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1226,11 +1166,11 @@
     },
     "ArrivalTime": "12:58",
     "DepartureTime": "13:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1256,11 +1196,11 @@
     },
     "ArrivalTime": "13:06",
     "DepartureTime": "13:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1286,11 +1226,11 @@
     },
     "ArrivalTime": "13:13",
     "DepartureTime": "13:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1316,11 +1256,11 @@
     },
     "ArrivalTime": "13:30",
     "DepartureTime": "13:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1346,11 +1286,11 @@
     },
     "ArrivalTime": "13:48",
     "DepartureTime": "13:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1376,11 +1316,11 @@
     },
     "ArrivalTime": "13:54",
     "DepartureTime": "13:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1406,11 +1346,11 @@
     },
     "ArrivalTime": "13:58",
     "DepartureTime": "14:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1436,11 +1376,11 @@
     },
     "ArrivalTime": "14:06",
     "DepartureTime": "14:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1466,11 +1406,11 @@
     },
     "ArrivalTime": "14:13",
     "DepartureTime": "14:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1496,11 +1436,11 @@
     },
     "ArrivalTime": "14:30",
     "DepartureTime": "14:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1526,11 +1466,11 @@
     },
     "ArrivalTime": "14:48",
     "DepartureTime": "14:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1556,11 +1496,11 @@
     },
     "ArrivalTime": "14:54",
     "DepartureTime": "14:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1586,11 +1526,11 @@
     },
     "ArrivalTime": "14:58",
     "DepartureTime": "15:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1616,11 +1556,11 @@
     },
     "ArrivalTime": "15:06",
     "DepartureTime": "15:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1646,11 +1586,11 @@
     },
     "ArrivalTime": "15:13",
     "DepartureTime": "15:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1676,11 +1616,11 @@
     },
     "ArrivalTime": "15:30",
     "DepartureTime": "15:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1706,11 +1646,11 @@
     },
     "ArrivalTime": "15:48",
     "DepartureTime": "15:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1736,11 +1676,11 @@
     },
     "ArrivalTime": "15:54",
     "DepartureTime": "15:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1766,11 +1706,11 @@
     },
     "ArrivalTime": "15:58",
     "DepartureTime": "16:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1796,11 +1736,11 @@
     },
     "ArrivalTime": "16:06",
     "DepartureTime": "16:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1826,11 +1766,11 @@
     },
     "ArrivalTime": "16:13",
     "DepartureTime": "16:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1856,11 +1796,11 @@
     },
     "ArrivalTime": "16:30",
     "DepartureTime": "16:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1886,11 +1826,11 @@
     },
     "ArrivalTime": "16:48",
     "DepartureTime": "16:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1916,11 +1856,11 @@
     },
     "ArrivalTime": "16:54",
     "DepartureTime": "16:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1946,11 +1886,11 @@
     },
     "ArrivalTime": "16:58",
     "DepartureTime": "17:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -1976,11 +1916,11 @@
     },
     "ArrivalTime": "17:06",
     "DepartureTime": "17:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2006,11 +1946,11 @@
     },
     "ArrivalTime": "17:13",
     "DepartureTime": "17:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2036,11 +1976,11 @@
     },
     "ArrivalTime": "17:17",
     "DepartureTime": "17:19",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2066,11 +2006,11 @@
     },
     "ArrivalTime": "17:28",
     "DepartureTime": "17:29",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2096,11 +2036,11 @@
     },
     "ArrivalTime": "17:30",
     "DepartureTime": "17:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2126,11 +2066,11 @@
     },
     "ArrivalTime": "17:48",
     "DepartureTime": "17:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2156,11 +2096,11 @@
     },
     "ArrivalTime": "17:54",
     "DepartureTime": "17:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2186,11 +2126,11 @@
     },
     "ArrivalTime": "17:58",
     "DepartureTime": "18:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2216,11 +2156,11 @@
     },
     "ArrivalTime": "18:06",
     "DepartureTime": "18:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2246,11 +2186,11 @@
     },
     "ArrivalTime": "18:13",
     "DepartureTime": "18:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2276,11 +2216,11 @@
     },
     "ArrivalTime": "18:30",
     "DepartureTime": "18:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2306,11 +2246,11 @@
     },
     "ArrivalTime": "18:48",
     "DepartureTime": "18:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2336,11 +2276,11 @@
     },
     "ArrivalTime": "18:54",
     "DepartureTime": "18:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2366,11 +2306,11 @@
     },
     "ArrivalTime": "18:58",
     "DepartureTime": "19:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2396,11 +2336,11 @@
     },
     "ArrivalTime": "19:06",
     "DepartureTime": "19:08",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2426,11 +2366,11 @@
     },
     "ArrivalTime": "19:13",
     "DepartureTime": "19:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2456,11 +2396,11 @@
     },
     "ArrivalTime": "19:30",
     "DepartureTime": "19:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2486,11 +2426,11 @@
     },
     "ArrivalTime": "19:48",
     "DepartureTime": "19:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2516,11 +2456,11 @@
     },
     "ArrivalTime": "19:54",
     "DepartureTime": "19:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2546,11 +2486,11 @@
     },
     "ArrivalTime": "19:58",
     "DepartureTime": "20:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2576,11 +2516,11 @@
     },
     "ArrivalTime": "20:13",
     "DepartureTime": "20:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2606,11 +2546,11 @@
     },
     "ArrivalTime": "20:30",
     "DepartureTime": "20:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2636,11 +2576,11 @@
     },
     "ArrivalTime": "20:48",
     "DepartureTime": "20:50",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2666,11 +2606,11 @@
     },
     "ArrivalTime": "20:54",
     "DepartureTime": "20:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2696,11 +2636,11 @@
     },
     "ArrivalTime": "20:58",
     "DepartureTime": "21:00",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2726,11 +2666,11 @@
     },
     "ArrivalTime": "21:13",
     "DepartureTime": "21:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2756,11 +2696,11 @@
     },
     "ArrivalTime": "21:35",
     "DepartureTime": "21:37",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2786,11 +2726,11 @@
     },
     "ArrivalTime": "21:54",
     "DepartureTime": "21:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2816,11 +2756,11 @@
     },
     "ArrivalTime": "22:02",
     "DepartureTime": "22:03",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2846,11 +2786,11 @@
     },
     "ArrivalTime": "22:13",
     "DepartureTime": "22:14",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2876,11 +2816,11 @@
     },
     "ArrivalTime": "22:30",
     "DepartureTime": "22:32",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2906,11 +2846,11 @@
     },
     "ArrivalTime": "22:54",
     "DepartureTime": "22:55",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2936,11 +2876,11 @@
     },
     "ArrivalTime": "23:08",
     "DepartureTime": "23:09",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2966,11 +2906,11 @@
     },
     "ArrivalTime": "23:22",
     "DepartureTime": "23:24",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -2996,11 +2936,11 @@
     },
     "ArrivalTime": "23:26",
     "DepartureTime": "23:27",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-09",
+    "TrainDate": "2026-11-10",
     "StationID": "1050",
     "StationName": {
       "Zh_tw": "嘉義",
@@ -3026,7 +2966,7 @@
     },
     "ArrivalTime": "23:29",
     "DepartureTime": "23:30",
-    "UpdateTime": "2026-11-09",
+    "UpdateTime": "2026-11-10",
     "VersionID": 1
   }
 ]
