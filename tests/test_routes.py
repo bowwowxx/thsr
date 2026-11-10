@@ -1,6 +1,7 @@
 """Offline route generation and local-only Git publication tests."""
 import contextlib
 import copy
+import hashlib
 import io
 import json
 from pathlib import Path
@@ -8,6 +9,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+from urllib.error import HTTPError
 from unittest import mock
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -18,6 +20,21 @@ import prepare_station_daily as station
 DATE = '2026-11-10'
 FIXTURE = ROOT / 'timetable' / f'{DATE}.json'
 STATIONS = [sid for sid, _, _ in daily.STATIONS]
+# Immutable hashes of the original 2026-11-10 ESP32 files; daily cleanup removes old station files.
+STATION_SHA256 = {
+    '0990': 'b66a1a5d18bc6f89d58a3b26a9524d25601e7c0fdab7c1890df3c25c4ca10679',
+    '1000': '0607c2d102d3f1f7388cb0c917078aa0446c7c4398ec430c2246cc071c9b2e90',
+    '1010': '0b38c0c0e2900c8dc371226699be8bbf3b03b934597f97773b7c012a02b93b88',
+    '1020': '83e8a4119c5fa2bd06612834b7029e9e36894814c5960ff82ecc34f9b3f54619',
+    '1030': 'b406f50d8e0c5dd95b675c19600a61e1aa0276e110d9660e3ecdbb001da668f4',
+    '1035': '7c655266559c6ac1f69ab04192202665d1e16aedce7257bba2f87c7b10418b57',
+    '1040': 'ec75f7d3c432528cf5b6f07ee41af9cf39c0a79edb0dfc6f841743bbe6aec085',
+    '1043': '9f35c0b738539baafb8989a54d604d5b07251ad84c047f84f12a43e5b69e7027',
+    '1047': 'dea39e8709450d28617d4a9dbf1f820fc700c661f2694ed116985afbaf319c35',
+    '1050': 'ffb05b2d196ffb9265df7d11568d0fa7b6c10422d0acc397e654445c07de9805',
+    '1060': 'd7e294be5f4fff84497df8067b5e7fe69ee82cab3b5584bbecdcd90a27eb4b72',
+    '1070': '2404fa48ff9391b2037a93e734f523f5fbb98aebd7f54dc283d7c60aed148f23',
+}
 
 
 class RouteTests(unittest.TestCase):
@@ -155,7 +172,7 @@ class RouteTests(unittest.TestCase):
             self.assertEqual(source.read_bytes(), FIXTURE.read_bytes())
             for sid in STATIONS:
                 name = f'{DATE}-station-{sid}.json'
-                self.assertEqual((table / name).read_bytes(), (ROOT / 'timetable' / name).read_bytes())
+                self.assertEqual(hashlib.sha256((table / name).read_bytes()).hexdigest(), STATION_SHA256[sid])
             encoded = (Path(tmp) / 'routes' / f'{DATE}.json').read_bytes()
             expected = daily.build_routes(self.data, DATE)
             self.assertEqual(json.loads(encoded), expected)
@@ -206,19 +223,42 @@ class RouteTests(unittest.TestCase):
             self.assertEqual(route.read_text(), 'previous routes')
 
     def test_normal_fetch_calls_exactly_the_existing_twelve_station_requests(self):
+        clock = [0.0]
+        request_times = []
         def response(request, timeout):
+            request_times.append(clock[0])
             sid = request.full_url.split('/Station/')[1].split('/')[0]
             self.assertEqual(timeout, 15)
             return io.BytesIO(json.dumps(self.data['stations'][sid]['Trains']).encode())
         with tempfile.TemporaryDirectory() as tmp, contextlib.redirect_stdout(io.StringIO()), \
              mock.patch.object(daily, 'authenticate') as auth, \
              mock.patch('urllib.request.urlopen', side_effect=response) as request, \
-             mock.patch.object(daily.time, 'sleep') as sleep:
+             mock.patch.object(daily.time, 'sleep', side_effect=lambda seconds: clock.__setitem__(0, clock[0] + seconds)) as sleep:
             daily.run(DATE, Path(tmp) / 'timetable', publish=False)
             auth.assert_called_once()
             self.assertEqual(request.call_count, 12)
             self.assertEqual(sleep.call_count, 11)
+            self.assertTrue(all(15 <= call.args[0] <= 17 for call in sleep.call_args_list))
+            self.assertTrue(all(sum(0 <= now - earlier < 60 for earlier in request_times) <= 5 for now in request_times))
             self.assertEqual(json.loads((Path(tmp) / 'routes' / f'{DATE}.json').read_text()), daily.build_routes(self.data, DATE))
+
+    def test_429_retries_wait_at_least_fifteen_seconds(self):
+        rows = self.data['stations']['1035']['Trains']
+        replies = [HTTPError('https://example.invalid', 429, 'Too Many Requests', {}, None),
+                   HTTPError('https://example.invalid', 429, 'Too Many Requests', {}, None),
+                   io.BytesIO(json.dumps(rows).encode())]
+        for reply in replies[:2]:
+            self.addCleanup(reply.close)
+        with contextlib.redirect_stdout(io.StringIO()), \
+             mock.patch('urllib.request.urlopen', side_effect=replies) as request, \
+             mock.patch.object(daily.random, 'uniform', return_value=2), \
+             mock.patch.object(daily.time, 'sleep') as sleep:
+            self.assertEqual(daily.fetch_station('1035', DATE), rows)
+        self.assertEqual(request.call_count, 3)
+        waits = [call.args[0] for call in sleep.call_args_list]
+        self.assertEqual(len(waits), 2)
+        self.assertGreaterEqual(min(waits), 15)
+        self.assertGreater(waits[1], waits[0])
 
 
 class GitPublicationTests(unittest.TestCase):

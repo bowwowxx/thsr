@@ -47,7 +47,7 @@ STATIONS = [
     ("1070", "ZUY", "左營"),
 ]
 
-DELAY_MIN, DELAY_MAX = 4.0, 5.0  # 每站間隔秒數（隨機）
+DELAY_MIN, DELAY_MAX = 15.0, 17.0  # 每站間隔秒數；預留每分鐘 5 次限制的餘裕
 ROOT = Path(__file__).resolve().parent
 TIME_RE = re.compile(r'(?:[01][0-9]|2[0-3]):[0-5][0-9]')
 
@@ -217,7 +217,7 @@ def fetch_station(station_id: str, train_date: str, retries: int = 3) -> list:
         except Exception as e:
             print(f"  [{station_id}] attempt {attempt}/{retries} failed: {e}")
             if attempt < retries:
-                wait = 10 * attempt + random.uniform(2, 5)
+                wait = max(DELAY_MIN, 10 * attempt) + random.uniform(2, 5)
                 print(f"  [{station_id}] backing off {wait:.0f}s...")
                 time.sleep(wait)
     raise RuntimeError(f"車站 {station_id} 抓取失敗；不覆寫原檔")
@@ -238,7 +238,7 @@ def slim_train(t: dict) -> dict:
 
 
 def collect_daily(train_date):
-    """Keep the existing TDX station requests, delay, retries and full JSON shape."""
+    """Keep sequential TDX station requests, retries and the full JSON shape."""
     print(f"抓取 {train_date} 全線 12 站班次\n")
 
     result = {"train_date": train_date, "stations": {}}
