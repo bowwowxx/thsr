@@ -102,14 +102,8 @@ def atomic_write(path, text):
             temp.unlink(missing_ok=True)
 
 
-def run(train_date: Optional[str] = None) -> None:
-    if train_date is None:
-        if len(sys.argv) != 2:
-            raise SystemExit(__doc__)
-        train_date = sys.argv[1]
-    if not DATE_RE.fullmatch(train_date):
-        raise SystemExit(f'Bad date {train_date!r}; expected YYYY-MM-DD')
-    stations = load_daily(train_date)
+def build_payloads(train_date, stations):
+    """Validate all stations in memory before any output is replaced."""
     names = catalog_names(stations)
     payloads = {}
     for sid in STATIONS:
@@ -118,22 +112,42 @@ def run(train_date: Optional[str] = None) -> None:
             raise SystemExit(f'{train_date} station {sid}: missing from daily file')
         rows = build_station(train_date, sid, names, station['Trains'])
         payloads[sid] = (json.dumps(rows, ensure_ascii=False, indent=2) + '\n', len(rows))
+    return payloads
+
+
+def publish_station_files(train_date, payloads, output_dir):
+    """Keep the existing ESP32 format and old-station-file retention policy."""
     # All 12 stations validated (or exited above); now publish atomically.
     total = 0
+    removed = []
     for sid in STATIONS:
         text, count = payloads[sid]
-        path = TIMETABLE / f'{train_date}-station-{sid}.json'
+        path = output_dir / f'{train_date}-station-{sid}.json'
         total += count
         atomic_write(path, text)
         print(f'wrote {path.name} ({count} rows, {len(text)} bytes)')
     # Delete older station files only after every current station write succeeds.
-    for path in sorted(TIMETABLE.iterdir()):
+    for path in sorted(output_dir.iterdir()):
         match = re.fullmatch(r'(\d{4}-\d{2}-\d{2})-station-(\d{4})\.json', path.name)
         if (match and match.group(1) < train_date
                 and match.group(2) in STATIONS and path.is_file()):
             path.unlink()
+            removed.append(path)
             print(f'removed {path.name}')
     print(f'{train_date}: published {len(STATIONS)} station files, {total} rows total')
+    return removed
+
+
+def run(train_date: Optional[str] = None) -> None:
+    if train_date is None:
+        if len(sys.argv) != 2:
+            raise SystemExit(__doc__)
+        train_date = sys.argv[1]
+    if not DATE_RE.fullmatch(train_date):
+        raise SystemExit(f'Bad date {train_date!r}; expected YYYY-MM-DD')
+    stations = load_daily(train_date)
+    payloads = build_payloads(train_date, stations)
+    publish_station_files(train_date, payloads, TIMETABLE)
 
 
 if __name__ == '__main__':
