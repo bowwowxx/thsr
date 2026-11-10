@@ -1,6 +1,6 @@
 [
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -26,11 +26,11 @@
     },
     "ArrivalTime": "06:23",
     "DepartureTime": "06:24",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -56,11 +56,11 @@
     },
     "ArrivalTime": "06:48",
     "DepartureTime": "06:49",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -86,11 +86,11 @@
     },
     "ArrivalTime": "07:10",
     "DepartureTime": "07:12",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -116,11 +116,11 @@
     },
     "ArrivalTime": "07:12",
     "DepartureTime": "07:13",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -146,11 +146,11 @@
     },
     "ArrivalTime": "07:30",
     "DepartureTime": "07:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -176,11 +176,11 @@
     },
     "ArrivalTime": "07:44",
     "DepartureTime": "07:45",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -206,11 +206,11 @@
     },
     "ArrivalTime": "07:57",
     "DepartureTime": "07:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -236,11 +236,11 @@
     },
     "ArrivalTime": "08:22",
     "DepartureTime": "08:24",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -266,11 +266,11 @@
     },
     "ArrivalTime": "08:23",
     "DepartureTime": "08:25",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -296,11 +296,11 @@
     },
     "ArrivalTime": "08:54",
     "DepartureTime": "08:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -326,11 +326,11 @@
     },
     "ArrivalTime": "08:57",
     "DepartureTime": "08:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -356,11 +356,11 @@
     },
     "ArrivalTime": "09:54",
     "DepartureTime": "09:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -386,11 +386,11 @@
     },
     "ArrivalTime": "09:57",
     "DepartureTime": "09:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -416,11 +416,11 @@
     },
     "ArrivalTime": "10:54",
     "DepartureTime": "10:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -446,11 +446,11 @@
     },
     "ArrivalTime": "10:57",
     "DepartureTime": "10:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -476,11 +476,11 @@
     },
     "ArrivalTime": "11:54",
     "DepartureTime": "11:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -506,11 +506,11 @@
     },
     "ArrivalTime": "11:57",
     "DepartureTime": "11:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -536,11 +536,11 @@
     },
     "ArrivalTime": "12:54",
     "DepartureTime": "12:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -566,11 +566,11 @@
     },
     "ArrivalTime": "12:57",
     "DepartureTime": "12:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -596,11 +596,11 @@
     },
     "ArrivalTime": "13:54",
     "DepartureTime": "13:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -626,11 +626,11 @@
     },
     "ArrivalTime": "13:57",
     "DepartureTime": "13:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -656,11 +656,11 @@
     },
     "ArrivalTime": "14:54",
     "DepartureTime": "14:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -686,11 +686,11 @@
     },
     "ArrivalTime": "14:57",
     "DepartureTime": "14:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -716,11 +716,11 @@
     },
     "ArrivalTime": "15:54",
     "DepartureTime": "15:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -746,11 +746,11 @@
     },
     "ArrivalTime": "15:57",
     "DepartureTime": "15:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -776,11 +776,11 @@
     },
     "ArrivalTime": "16:54",
     "DepartureTime": "16:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -806,11 +806,11 @@
     },
     "ArrivalTime": "16:57",
     "DepartureTime": "16:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -836,11 +836,11 @@
     },
     "ArrivalTime": "17:22",
     "DepartureTime": "17:24",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -866,11 +866,11 @@
     },
     "ArrivalTime": "17:54",
     "DepartureTime": "17:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -896,11 +896,11 @@
     },
     "ArrivalTime": "17:57",
     "DepartureTime": "17:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -926,11 +926,11 @@
     },
     "ArrivalTime": "18:39",
     "DepartureTime": "18:40",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -956,11 +956,11 @@
     },
     "ArrivalTime": "18:54",
     "DepartureTime": "18:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -986,11 +986,11 @@
     },
     "ArrivalTime": "18:57",
     "DepartureTime": "18:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1016,11 +1016,11 @@
     },
     "ArrivalTime": "19:23",
     "DepartureTime": "19:25",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1046,11 +1046,11 @@
     },
     "ArrivalTime": "19:54",
     "DepartureTime": "19:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1076,11 +1076,11 @@
     },
     "ArrivalTime": "19:57",
     "DepartureTime": "19:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1106,11 +1106,11 @@
     },
     "ArrivalTime": "20:54",
     "DepartureTime": "20:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1136,11 +1136,11 @@
     },
     "ArrivalTime": "20:57",
     "DepartureTime": "20:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1166,11 +1166,11 @@
     },
     "ArrivalTime": "21:54",
     "DepartureTime": "21:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1196,11 +1196,11 @@
     },
     "ArrivalTime": "21:57",
     "DepartureTime": "21:58",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1226,11 +1226,11 @@
     },
     "ArrivalTime": "22:59",
     "DepartureTime": "23:00",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1256,11 +1256,11 @@
     },
     "ArrivalTime": "23:11",
     "DepartureTime": "23:12",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1035",
     "StationName": {
       "Zh_tw": "苗栗",
@@ -1286,7 +1286,7 @@
     },
     "ArrivalTime": "23:42",
     "DepartureTime": "23:43",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   }
 ]

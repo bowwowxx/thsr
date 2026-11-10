@@ -1,6 +1,6 @@
 [
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -26,11 +26,11 @@
     },
     "ArrivalTime": "06:23",
     "DepartureTime": "06:26",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -56,11 +56,11 @@
     },
     "ArrivalTime": "06:30",
     "DepartureTime": "06:30",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -86,11 +86,11 @@
     },
     "ArrivalTime": "06:48",
     "DepartureTime": "06:51",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -116,11 +116,11 @@
     },
     "ArrivalTime": "07:08",
     "DepartureTime": "07:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -146,11 +146,11 @@
     },
     "ArrivalTime": "07:09",
     "DepartureTime": "07:12",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -176,11 +176,11 @@
     },
     "ArrivalTime": "07:28",
     "DepartureTime": "07:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -206,11 +206,11 @@
     },
     "ArrivalTime": "07:33",
     "DepartureTime": "07:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -236,11 +236,11 @@
     },
     "ArrivalTime": "07:34",
     "DepartureTime": "07:37",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -266,11 +266,11 @@
     },
     "ArrivalTime": "07:43",
     "DepartureTime": "07:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -296,11 +296,11 @@
     },
     "ArrivalTime": "07:44",
     "DepartureTime": "07:47",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -326,41 +326,11 @@
     },
     "ArrivalTime": "07:48",
     "DepartureTime": "07:51",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
-    "StationID": "1000",
-    "StationName": {
-      "Zh_tw": "台北",
-      "En": "台北",
-      "Ja": "台北",
-      "Ko": "台北"
-    },
-    "TrainNo": "0508",
-    "Direction": 1,
-    "StartingStationID": "1040",
-    "StartingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "07:58",
-    "DepartureTime": "08:01",
-    "UpdateTime": "2026-11-10",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -386,11 +356,41 @@
     },
     "ArrivalTime": "07:58",
     "DepartureTime": "08:01",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
+    "StationID": "1000",
+    "StationName": {
+      "Zh_tw": "台北",
+      "En": "台北",
+      "Ja": "台北",
+      "Ko": "台北"
+    },
+    "TrainNo": "0508",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "07:58",
+    "DepartureTime": "08:01",
+    "UpdateTime": "2026-11-11",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -416,11 +416,11 @@
     },
     "ArrivalTime": "08:04",
     "DepartureTime": "08:07",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -446,11 +446,11 @@
     },
     "ArrivalTime": "08:08",
     "DepartureTime": "08:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -476,11 +476,11 @@
     },
     "ArrivalTime": "08:18",
     "DepartureTime": "08:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -506,11 +506,11 @@
     },
     "ArrivalTime": "08:18",
     "DepartureTime": "08:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -536,11 +536,11 @@
     },
     "ArrivalTime": "08:28",
     "DepartureTime": "08:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -566,11 +566,11 @@
     },
     "ArrivalTime": "08:29",
     "DepartureTime": "08:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -596,11 +596,11 @@
     },
     "ArrivalTime": "08:34",
     "DepartureTime": "08:37",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -626,11 +626,11 @@
     },
     "ArrivalTime": "08:39",
     "DepartureTime": "08:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -656,11 +656,11 @@
     },
     "ArrivalTime": "08:43",
     "DepartureTime": "08:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -686,11 +686,11 @@
     },
     "ArrivalTime": "08:44",
     "DepartureTime": "08:47",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -716,11 +716,11 @@
     },
     "ArrivalTime": "08:54",
     "DepartureTime": "08:57",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -746,11 +746,11 @@
     },
     "ArrivalTime": "08:58",
     "DepartureTime": "09:01",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -776,11 +776,11 @@
     },
     "ArrivalTime": "08:59",
     "DepartureTime": "09:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -806,11 +806,11 @@
     },
     "ArrivalTime": "09:08",
     "DepartureTime": "09:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -836,11 +836,11 @@
     },
     "ArrivalTime": "09:13",
     "DepartureTime": "09:16",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -866,11 +866,11 @@
     },
     "ArrivalTime": "09:18",
     "DepartureTime": "09:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -896,11 +896,11 @@
     },
     "ArrivalTime": "09:28",
     "DepartureTime": "09:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -926,11 +926,11 @@
     },
     "ArrivalTime": "09:29",
     "DepartureTime": "09:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -956,11 +956,11 @@
     },
     "ArrivalTime": "09:33",
     "DepartureTime": "09:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -986,11 +986,11 @@
     },
     "ArrivalTime": "09:39",
     "DepartureTime": "09:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1016,11 +1016,11 @@
     },
     "ArrivalTime": "09:43",
     "DepartureTime": "09:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1046,11 +1046,11 @@
     },
     "ArrivalTime": "09:59",
     "DepartureTime": "10:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1076,11 +1076,11 @@
     },
     "ArrivalTime": "10:08",
     "DepartureTime": "10:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1106,11 +1106,11 @@
     },
     "ArrivalTime": "10:18",
     "DepartureTime": "10:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1136,11 +1136,11 @@
     },
     "ArrivalTime": "10:28",
     "DepartureTime": "10:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1166,11 +1166,11 @@
     },
     "ArrivalTime": "10:29",
     "DepartureTime": "10:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1196,11 +1196,11 @@
     },
     "ArrivalTime": "10:33",
     "DepartureTime": "10:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1226,11 +1226,11 @@
     },
     "ArrivalTime": "10:39",
     "DepartureTime": "10:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1256,11 +1256,11 @@
     },
     "ArrivalTime": "10:43",
     "DepartureTime": "10:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1286,11 +1286,11 @@
     },
     "ArrivalTime": "10:59",
     "DepartureTime": "11:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1316,11 +1316,11 @@
     },
     "ArrivalTime": "11:08",
     "DepartureTime": "11:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1346,11 +1346,11 @@
     },
     "ArrivalTime": "11:28",
     "DepartureTime": "11:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1376,11 +1376,11 @@
     },
     "ArrivalTime": "11:29",
     "DepartureTime": "11:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1406,11 +1406,11 @@
     },
     "ArrivalTime": "11:33",
     "DepartureTime": "11:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1436,11 +1436,11 @@
     },
     "ArrivalTime": "11:39",
     "DepartureTime": "11:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1466,11 +1466,11 @@
     },
     "ArrivalTime": "11:43",
     "DepartureTime": "11:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1496,11 +1496,11 @@
     },
     "ArrivalTime": "11:59",
     "DepartureTime": "12:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1526,11 +1526,11 @@
     },
     "ArrivalTime": "12:08",
     "DepartureTime": "12:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1556,11 +1556,11 @@
     },
     "ArrivalTime": "12:18",
     "DepartureTime": "12:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1586,11 +1586,11 @@
     },
     "ArrivalTime": "12:28",
     "DepartureTime": "12:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1616,11 +1616,11 @@
     },
     "ArrivalTime": "12:29",
     "DepartureTime": "12:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1646,11 +1646,11 @@
     },
     "ArrivalTime": "12:33",
     "DepartureTime": "12:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1676,11 +1676,11 @@
     },
     "ArrivalTime": "12:39",
     "DepartureTime": "12:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1706,11 +1706,11 @@
     },
     "ArrivalTime": "12:43",
     "DepartureTime": "12:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1736,11 +1736,11 @@
     },
     "ArrivalTime": "12:59",
     "DepartureTime": "13:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1766,11 +1766,11 @@
     },
     "ArrivalTime": "13:08",
     "DepartureTime": "13:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1796,11 +1796,11 @@
     },
     "ArrivalTime": "13:18",
     "DepartureTime": "13:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1826,11 +1826,11 @@
     },
     "ArrivalTime": "13:28",
     "DepartureTime": "13:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1856,11 +1856,11 @@
     },
     "ArrivalTime": "13:29",
     "DepartureTime": "13:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1886,11 +1886,11 @@
     },
     "ArrivalTime": "13:39",
     "DepartureTime": "13:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1916,11 +1916,11 @@
     },
     "ArrivalTime": "13:43",
     "DepartureTime": "13:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1946,11 +1946,11 @@
     },
     "ArrivalTime": "13:59",
     "DepartureTime": "14:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -1976,11 +1976,11 @@
     },
     "ArrivalTime": "14:08",
     "DepartureTime": "14:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2006,11 +2006,11 @@
     },
     "ArrivalTime": "14:18",
     "DepartureTime": "14:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2036,11 +2036,11 @@
     },
     "ArrivalTime": "14:28",
     "DepartureTime": "14:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2066,11 +2066,11 @@
     },
     "ArrivalTime": "14:29",
     "DepartureTime": "14:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2096,11 +2096,11 @@
     },
     "ArrivalTime": "14:33",
     "DepartureTime": "14:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2126,11 +2126,11 @@
     },
     "ArrivalTime": "14:39",
     "DepartureTime": "14:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2156,11 +2156,11 @@
     },
     "ArrivalTime": "14:43",
     "DepartureTime": "14:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2186,11 +2186,11 @@
     },
     "ArrivalTime": "14:59",
     "DepartureTime": "15:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2216,11 +2216,11 @@
     },
     "ArrivalTime": "15:08",
     "DepartureTime": "15:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2246,11 +2246,11 @@
     },
     "ArrivalTime": "15:18",
     "DepartureTime": "15:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2276,11 +2276,11 @@
     },
     "ArrivalTime": "15:28",
     "DepartureTime": "15:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2306,11 +2306,11 @@
     },
     "ArrivalTime": "15:29",
     "DepartureTime": "15:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2336,11 +2336,11 @@
     },
     "ArrivalTime": "15:33",
     "DepartureTime": "15:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2366,11 +2366,11 @@
     },
     "ArrivalTime": "15:39",
     "DepartureTime": "15:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2396,11 +2396,11 @@
     },
     "ArrivalTime": "15:43",
     "DepartureTime": "15:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2426,11 +2426,11 @@
     },
     "ArrivalTime": "15:58",
     "DepartureTime": "16:01",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2456,11 +2456,11 @@
     },
     "ArrivalTime": "15:59",
     "DepartureTime": "16:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2486,11 +2486,11 @@
     },
     "ArrivalTime": "16:08",
     "DepartureTime": "16:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2516,11 +2516,11 @@
     },
     "ArrivalTime": "16:18",
     "DepartureTime": "16:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2546,11 +2546,11 @@
     },
     "ArrivalTime": "16:28",
     "DepartureTime": "16:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2576,11 +2576,11 @@
     },
     "ArrivalTime": "16:29",
     "DepartureTime": "16:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2606,11 +2606,11 @@
     },
     "ArrivalTime": "16:33",
     "DepartureTime": "16:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2636,11 +2636,11 @@
     },
     "ArrivalTime": "16:39",
     "DepartureTime": "16:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2666,11 +2666,11 @@
     },
     "ArrivalTime": "16:43",
     "DepartureTime": "16:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2696,11 +2696,11 @@
     },
     "ArrivalTime": "16:48",
     "DepartureTime": "16:51",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2726,11 +2726,11 @@
     },
     "ArrivalTime": "16:54",
     "DepartureTime": "16:57",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2756,11 +2756,11 @@
     },
     "ArrivalTime": "16:59",
     "DepartureTime": "17:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2786,11 +2786,11 @@
     },
     "ArrivalTime": "17:08",
     "DepartureTime": "17:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2816,11 +2816,11 @@
     },
     "ArrivalTime": "17:18",
     "DepartureTime": "17:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2846,11 +2846,11 @@
     },
     "ArrivalTime": "17:28",
     "DepartureTime": "17:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2876,11 +2876,11 @@
     },
     "ArrivalTime": "17:29",
     "DepartureTime": "17:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2906,11 +2906,11 @@
     },
     "ArrivalTime": "17:33",
     "DepartureTime": "17:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2936,11 +2936,11 @@
     },
     "ArrivalTime": "17:39",
     "DepartureTime": "17:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2966,11 +2966,11 @@
     },
     "ArrivalTime": "17:43",
     "DepartureTime": "17:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -2996,11 +2996,11 @@
     },
     "ArrivalTime": "17:53",
     "DepartureTime": "17:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3026,11 +3026,11 @@
     },
     "ArrivalTime": "17:54",
     "DepartureTime": "17:57",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3056,11 +3056,11 @@
     },
     "ArrivalTime": "17:59",
     "DepartureTime": "18:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3086,11 +3086,11 @@
     },
     "ArrivalTime": "18:08",
     "DepartureTime": "18:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3116,11 +3116,11 @@
     },
     "ArrivalTime": "18:13",
     "DepartureTime": "18:16",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3146,11 +3146,11 @@
     },
     "ArrivalTime": "18:18",
     "DepartureTime": "18:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3176,11 +3176,11 @@
     },
     "ArrivalTime": "18:28",
     "DepartureTime": "18:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3206,41 +3206,11 @@
     },
     "ArrivalTime": "18:29",
     "DepartureTime": "18:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
-    "StationID": "1000",
-    "StationName": {
-      "Zh_tw": "台北",
-      "En": "台北",
-      "Ja": "台北",
-      "Ko": "台北"
-    },
-    "TrainNo": "1549",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1040",
-    "EndingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "ArrivalTime": "18:33",
-    "DepartureTime": "18:36",
-    "UpdateTime": "2026-11-10",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3266,11 +3236,41 @@
     },
     "ArrivalTime": "18:33",
     "DepartureTime": "18:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
+    "StationID": "1000",
+    "StationName": {
+      "Zh_tw": "台北",
+      "En": "台北",
+      "Ja": "台北",
+      "Ko": "台北"
+    },
+    "TrainNo": "1549",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "18:33",
+    "DepartureTime": "18:36",
+    "UpdateTime": "2026-11-11",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3296,11 +3296,11 @@
     },
     "ArrivalTime": "18:39",
     "DepartureTime": "18:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3326,11 +3326,11 @@
     },
     "ArrivalTime": "18:43",
     "DepartureTime": "18:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3356,11 +3356,11 @@
     },
     "ArrivalTime": "18:44",
     "DepartureTime": "18:47",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3386,11 +3386,11 @@
     },
     "ArrivalTime": "18:48",
     "DepartureTime": "18:51",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3416,11 +3416,11 @@
     },
     "ArrivalTime": "18:54",
     "DepartureTime": "18:57",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3446,11 +3446,11 @@
     },
     "ArrivalTime": "18:59",
     "DepartureTime": "19:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3476,11 +3476,11 @@
     },
     "ArrivalTime": "19:08",
     "DepartureTime": "19:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3506,11 +3506,11 @@
     },
     "ArrivalTime": "19:18",
     "DepartureTime": "19:21",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3536,11 +3536,11 @@
     },
     "ArrivalTime": "19:28",
     "DepartureTime": "19:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3566,11 +3566,11 @@
     },
     "ArrivalTime": "19:29",
     "DepartureTime": "19:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3596,11 +3596,11 @@
     },
     "ArrivalTime": "19:33",
     "DepartureTime": "19:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3626,11 +3626,11 @@
     },
     "ArrivalTime": "19:39",
     "DepartureTime": "19:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3656,11 +3656,11 @@
     },
     "ArrivalTime": "19:43",
     "DepartureTime": "19:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3686,11 +3686,11 @@
     },
     "ArrivalTime": "19:59",
     "DepartureTime": "20:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3716,11 +3716,11 @@
     },
     "ArrivalTime": "20:08",
     "DepartureTime": "20:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3746,11 +3746,11 @@
     },
     "ArrivalTime": "20:28",
     "DepartureTime": "20:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3776,11 +3776,11 @@
     },
     "ArrivalTime": "20:29",
     "DepartureTime": "20:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3806,11 +3806,11 @@
     },
     "ArrivalTime": "20:33",
     "DepartureTime": "20:36",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3836,11 +3836,11 @@
     },
     "ArrivalTime": "20:39",
     "DepartureTime": "20:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3866,11 +3866,11 @@
     },
     "ArrivalTime": "20:43",
     "DepartureTime": "20:46",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3896,11 +3896,11 @@
     },
     "ArrivalTime": "20:59",
     "DepartureTime": "21:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3926,11 +3926,11 @@
     },
     "ArrivalTime": "21:08",
     "DepartureTime": "21:11",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3956,11 +3956,11 @@
     },
     "ArrivalTime": "21:28",
     "DepartureTime": "21:31",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -3986,11 +3986,11 @@
     },
     "ArrivalTime": "21:29",
     "DepartureTime": "21:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4016,11 +4016,11 @@
     },
     "ArrivalTime": "21:38",
     "DepartureTime": "21:41",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4046,11 +4046,11 @@
     },
     "ArrivalTime": "21:39",
     "DepartureTime": "21:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4076,11 +4076,11 @@
     },
     "ArrivalTime": "21:53",
     "DepartureTime": "21:56",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4106,11 +4106,11 @@
     },
     "ArrivalTime": "21:59",
     "DepartureTime": "22:02",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4136,11 +4136,11 @@
     },
     "ArrivalTime": "22:07",
     "DepartureTime": "22:10",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4166,11 +4166,11 @@
     },
     "ArrivalTime": "22:13",
     "DepartureTime": "22:16",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4196,11 +4196,11 @@
     },
     "ArrivalTime": "22:23",
     "DepartureTime": "22:26",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4226,11 +4226,11 @@
     },
     "ArrivalTime": "22:29",
     "DepartureTime": "22:32",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4256,11 +4256,11 @@
     },
     "ArrivalTime": "22:39",
     "DepartureTime": "22:42",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4286,11 +4286,11 @@
     },
     "ArrivalTime": "22:57",
     "DepartureTime": "23:00",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4316,11 +4316,11 @@
     },
     "ArrivalTime": "23:04",
     "DepartureTime": "23:07",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4346,11 +4346,11 @@
     },
     "ArrivalTime": "23:44",
     "DepartureTime": "23:47",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4376,11 +4376,11 @@
     },
     "ArrivalTime": "23:49",
     "DepartureTime": "23:52",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-10",
+    "TrainDate": "2026-11-11",
     "StationID": "1000",
     "StationName": {
       "Zh_tw": "台北",
@@ -4406,7 +4406,7 @@
     },
     "ArrivalTime": "23:59",
     "DepartureTime": "23:59",
-    "UpdateTime": "2026-11-10",
+    "UpdateTime": "2026-11-11",
     "VersionID": 1
   }
 ]
