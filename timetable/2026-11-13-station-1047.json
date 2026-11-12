@@ -1,6 +1,36 @@
 [
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1047",
+    "StationName": {
+      "Zh_tw": "雲林",
+      "En": "雲林",
+      "Ja": "雲林",
+      "Ko": "雲林"
+    },
+    "TrainNo": "1346",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "06:19",
+    "DepartureTime": "06:22",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -26,11 +56,11 @@
     },
     "ArrivalTime": "06:33",
     "DepartureTime": "06:34",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -56,11 +86,11 @@
     },
     "ArrivalTime": "06:46",
     "DepartureTime": "06:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -86,11 +116,11 @@
     },
     "ArrivalTime": "06:59",
     "DepartureTime": "07:00",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -116,11 +146,11 @@
     },
     "ArrivalTime": "07:30",
     "DepartureTime": "07:32",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -146,11 +176,11 @@
     },
     "ArrivalTime": "07:55",
     "DepartureTime": "07:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -176,11 +206,11 @@
     },
     "ArrivalTime": "08:11",
     "DepartureTime": "08:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -206,11 +236,11 @@
     },
     "ArrivalTime": "08:40",
     "DepartureTime": "08:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -236,11 +266,11 @@
     },
     "ArrivalTime": "09:11",
     "DepartureTime": "09:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -266,11 +296,11 @@
     },
     "ArrivalTime": "09:16",
     "DepartureTime": "09:17",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -296,11 +326,11 @@
     },
     "ArrivalTime": "09:39",
     "DepartureTime": "09:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -326,11 +356,11 @@
     },
     "ArrivalTime": "10:11",
     "DepartureTime": "10:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -356,11 +386,11 @@
     },
     "ArrivalTime": "10:16",
     "DepartureTime": "10:17",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -386,11 +416,11 @@
     },
     "ArrivalTime": "10:39",
     "DepartureTime": "10:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -416,11 +446,41 @@
     },
     "ArrivalTime": "11:11",
     "DepartureTime": "11:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1047",
+    "StationName": {
+      "Zh_tw": "雲林",
+      "En": "雲林",
+      "Ja": "雲林",
+      "Ko": "雲林"
+    },
+    "TrainNo": "1309",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "11:16",
+    "DepartureTime": "11:17",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -446,11 +506,11 @@
     },
     "ArrivalTime": "11:39",
     "DepartureTime": "11:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -476,11 +536,11 @@
     },
     "ArrivalTime": "12:11",
     "DepartureTime": "12:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -504,13 +564,13 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "12:40",
+    "ArrivalTime": "12:39",
     "DepartureTime": "12:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -536,11 +596,11 @@
     },
     "ArrivalTime": "13:11",
     "DepartureTime": "13:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -566,11 +626,11 @@
     },
     "ArrivalTime": "13:39",
     "DepartureTime": "13:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -596,11 +656,11 @@
     },
     "ArrivalTime": "14:11",
     "DepartureTime": "14:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -626,11 +686,11 @@
     },
     "ArrivalTime": "14:39",
     "DepartureTime": "14:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -656,11 +716,11 @@
     },
     "ArrivalTime": "15:11",
     "DepartureTime": "15:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -686,11 +746,11 @@
     },
     "ArrivalTime": "15:39",
     "DepartureTime": "15:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -716,11 +776,41 @@
     },
     "ArrivalTime": "16:11",
     "DepartureTime": "16:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1047",
+    "StationName": {
+      "Zh_tw": "雲林",
+      "En": "雲林",
+      "Ja": "雲林",
+      "Ko": "雲林"
+    },
+    "TrainNo": "1320",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "16:30",
+    "DepartureTime": "16:31",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -746,11 +836,11 @@
     },
     "ArrivalTime": "16:39",
     "DepartureTime": "16:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -776,71 +866,11 @@
     },
     "ArrivalTime": "17:11",
     "DepartureTime": "17:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "1321",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "17:16",
-    "DepartureTime": "17:17",
-    "UpdateTime": "2026-11-11",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-11",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "1322",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "17:30",
-    "DepartureTime": "17:31",
-    "UpdateTime": "2026-11-11",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -866,11 +896,11 @@
     },
     "ArrivalTime": "17:39",
     "DepartureTime": "17:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -896,11 +926,11 @@
     },
     "ArrivalTime": "18:11",
     "DepartureTime": "18:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -926,11 +956,11 @@
     },
     "ArrivalTime": "18:39",
     "DepartureTime": "18:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -956,11 +986,11 @@
     },
     "ArrivalTime": "19:11",
     "DepartureTime": "19:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -986,11 +1016,11 @@
     },
     "ArrivalTime": "19:39",
     "DepartureTime": "19:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1016,11 +1046,71 @@
     },
     "ArrivalTime": "20:11",
     "DepartureTime": "20:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1047",
+    "StationName": {
+      "Zh_tw": "雲林",
+      "En": "雲林",
+      "Ja": "雲林",
+      "Ko": "雲林"
+    },
+    "TrainNo": "1327",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "20:16",
+    "DepartureTime": "20:17",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
+    "StationID": "1047",
+    "StationName": {
+      "Zh_tw": "雲林",
+      "En": "雲林",
+      "Ja": "雲林",
+      "Ko": "雲林"
+    },
+    "TrainNo": "1328",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "20:30",
+    "DepartureTime": "20:31",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1046,11 +1136,11 @@
     },
     "ArrivalTime": "20:39",
     "DepartureTime": "20:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1076,11 +1166,11 @@
     },
     "ArrivalTime": "21:11",
     "DepartureTime": "21:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1104,13 +1194,13 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "21:40",
+    "ArrivalTime": "21:39",
     "DepartureTime": "21:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1134,13 +1224,13 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "22:15",
+    "ArrivalTime": "22:14",
     "DepartureTime": "22:16",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1164,13 +1254,13 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "22:40",
+    "ArrivalTime": "22:39",
     "DepartureTime": "22:41",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1196,11 +1286,11 @@
     },
     "ArrivalTime": "23:11",
     "DepartureTime": "23:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1047",
     "StationName": {
       "Zh_tw": "雲林",
@@ -1226,7 +1316,7 @@
     },
     "ArrivalTime": "23:38",
     "DepartureTime": "23:39",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   }
 ]

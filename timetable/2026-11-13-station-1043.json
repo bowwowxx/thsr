@@ -1,6 +1,36 @@
 [
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "1346",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "06:31",
+    "DepartureTime": "06:32",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -26,11 +56,11 @@
     },
     "ArrivalTime": "06:36",
     "DepartureTime": "06:37",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -56,11 +86,11 @@
     },
     "ArrivalTime": "06:43",
     "DepartureTime": "06:44",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -86,11 +116,11 @@
     },
     "ArrivalTime": "07:10",
     "DepartureTime": "07:13",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -116,11 +146,11 @@
     },
     "ArrivalTime": "07:41",
     "DepartureTime": "07:42",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -146,11 +176,11 @@
     },
     "ArrivalTime": "07:44",
     "DepartureTime": "07:45",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -176,11 +206,11 @@
     },
     "ArrivalTime": "08:21",
     "DepartureTime": "08:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -206,11 +236,11 @@
     },
     "ArrivalTime": "08:27",
     "DepartureTime": "08:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -236,11 +266,11 @@
     },
     "ArrivalTime": "09:05",
     "DepartureTime": "09:06",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -266,11 +296,11 @@
     },
     "ArrivalTime": "09:21",
     "DepartureTime": "09:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -296,11 +326,11 @@
     },
     "ArrivalTime": "09:27",
     "DepartureTime": "09:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -326,11 +356,11 @@
     },
     "ArrivalTime": "10:05",
     "DepartureTime": "10:06",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -356,11 +386,11 @@
     },
     "ArrivalTime": "10:21",
     "DepartureTime": "10:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -386,11 +416,41 @@
     },
     "ArrivalTime": "10:27",
     "DepartureTime": "10:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "1309",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "11:05",
+    "DepartureTime": "11:06",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -416,11 +476,11 @@
     },
     "ArrivalTime": "11:21",
     "DepartureTime": "11:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -446,11 +506,11 @@
     },
     "ArrivalTime": "11:27",
     "DepartureTime": "11:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -474,13 +534,13 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "12:23",
+    "ArrivalTime": "12:21",
     "DepartureTime": "12:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -506,11 +566,11 @@
     },
     "ArrivalTime": "12:27",
     "DepartureTime": "12:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -536,11 +596,11 @@
     },
     "ArrivalTime": "13:21",
     "DepartureTime": "13:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -566,11 +626,11 @@
     },
     "ArrivalTime": "13:27",
     "DepartureTime": "13:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -596,11 +656,11 @@
     },
     "ArrivalTime": "14:21",
     "DepartureTime": "14:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -626,11 +686,11 @@
     },
     "ArrivalTime": "14:27",
     "DepartureTime": "14:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -656,11 +716,11 @@
     },
     "ArrivalTime": "15:21",
     "DepartureTime": "15:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -686,11 +746,11 @@
     },
     "ArrivalTime": "15:27",
     "DepartureTime": "15:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -716,11 +776,11 @@
     },
     "ArrivalTime": "16:21",
     "DepartureTime": "16:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -746,11 +806,11 @@
     },
     "ArrivalTime": "16:27",
     "DepartureTime": "16:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -758,29 +818,29 @@
       "Ja": "彰化",
       "Ko": "彰化"
     },
-    "TrainNo": "1321",
-    "Direction": 0,
-    "StartingStationID": "0990",
+    "TrainNo": "1320",
+    "Direction": 1,
+    "StartingStationID": "1070",
     "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
       "Zh_tw": "左營",
       "En": "左營",
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "17:05",
-    "DepartureTime": "17:06",
-    "UpdateTime": "2026-11-11",
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "16:40",
+    "DepartureTime": "16:41",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -806,11 +866,11 @@
     },
     "ArrivalTime": "17:21",
     "DepartureTime": "17:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -836,41 +896,11 @@
     },
     "ArrivalTime": "17:27",
     "DepartureTime": "17:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
-    "StationID": "1043",
-    "StationName": {
-      "Zh_tw": "彰化",
-      "En": "彰化",
-      "Ja": "彰化",
-      "Ko": "彰化"
-    },
-    "TrainNo": "1322",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "17:40",
-    "DepartureTime": "17:41",
-    "UpdateTime": "2026-11-11",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -896,11 +926,11 @@
     },
     "ArrivalTime": "18:21",
     "DepartureTime": "18:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -926,11 +956,11 @@
     },
     "ArrivalTime": "18:27",
     "DepartureTime": "18:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -956,11 +986,11 @@
     },
     "ArrivalTime": "19:21",
     "DepartureTime": "19:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -986,11 +1016,41 @@
     },
     "ArrivalTime": "19:27",
     "DepartureTime": "19:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "1327",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "20:05",
+    "DepartureTime": "20:06",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1014,13 +1074,13 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "20:23",
+    "ArrivalTime": "20:21",
     "DepartureTime": "20:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1046,11 +1106,41 @@
     },
     "ArrivalTime": "20:27",
     "DepartureTime": "20:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "1328",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "20:40",
+    "DepartureTime": "20:41",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1074,13 +1164,13 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "21:23",
+    "ArrivalTime": "21:21",
     "DepartureTime": "21:24",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1106,11 +1196,11 @@
     },
     "ArrivalTime": "21:27",
     "DepartureTime": "21:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1136,11 +1226,11 @@
     },
     "ArrivalTime": "22:27",
     "DepartureTime": "22:28",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1166,11 +1256,11 @@
     },
     "ArrivalTime": "22:27",
     "DepartureTime": "22:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1196,11 +1286,11 @@
     },
     "ArrivalTime": "22:59",
     "DepartureTime": "23:01",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1043",
     "StationName": {
       "Zh_tw": "彰化",
@@ -1226,7 +1316,7 @@
     },
     "ArrivalTime": "23:48",
     "DepartureTime": "23:49",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   }
 ]

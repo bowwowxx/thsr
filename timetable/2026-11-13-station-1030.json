@@ -1,6 +1,6 @@
 [
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -26,11 +26,11 @@
     },
     "ArrivalTime": "06:36",
     "DepartureTime": "06:37",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -56,11 +56,11 @@
     },
     "ArrivalTime": "07:00",
     "DepartureTime": "07:02",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -84,13 +84,13 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "07:01",
+    "ArrivalTime": "07:00",
     "DepartureTime": "07:02",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -116,11 +116,11 @@
     },
     "ArrivalTime": "07:23",
     "DepartureTime": "07:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -146,11 +146,11 @@
     },
     "ArrivalTime": "07:26",
     "DepartureTime": "07:27",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -176,11 +176,11 @@
     },
     "ArrivalTime": "07:42",
     "DepartureTime": "07:45",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -206,11 +206,11 @@
     },
     "ArrivalTime": "07:45",
     "DepartureTime": "07:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -236,11 +236,11 @@
     },
     "ArrivalTime": "07:56",
     "DepartureTime": "07:58",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -266,11 +266,11 @@
     },
     "ArrivalTime": "08:03",
     "DepartureTime": "08:05",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -296,11 +296,11 @@
     },
     "ArrivalTime": "08:11",
     "DepartureTime": "08:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -326,11 +326,11 @@
     },
     "ArrivalTime": "08:21",
     "DepartureTime": "08:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -356,11 +356,11 @@
     },
     "ArrivalTime": "08:23",
     "DepartureTime": "08:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -386,11 +386,11 @@
     },
     "ArrivalTime": "08:38",
     "DepartureTime": "08:39",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -416,11 +416,11 @@
     },
     "ArrivalTime": "08:45",
     "DepartureTime": "08:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -446,11 +446,11 @@
     },
     "ArrivalTime": "08:53",
     "DepartureTime": "08:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -476,11 +476,11 @@
     },
     "ArrivalTime": "08:56",
     "DepartureTime": "08:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -506,11 +506,11 @@
     },
     "ArrivalTime": "09:07",
     "DepartureTime": "09:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -536,11 +536,11 @@
     },
     "ArrivalTime": "09:21",
     "DepartureTime": "09:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -566,11 +566,11 @@
     },
     "ArrivalTime": "09:23",
     "DepartureTime": "09:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -596,11 +596,11 @@
     },
     "ArrivalTime": "09:45",
     "DepartureTime": "09:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -626,11 +626,11 @@
     },
     "ArrivalTime": "09:53",
     "DepartureTime": "09:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -656,11 +656,11 @@
     },
     "ArrivalTime": "09:56",
     "DepartureTime": "09:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -686,11 +686,11 @@
     },
     "ArrivalTime": "10:07",
     "DepartureTime": "10:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -716,11 +716,11 @@
     },
     "ArrivalTime": "10:21",
     "DepartureTime": "10:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -746,11 +746,11 @@
     },
     "ArrivalTime": "10:23",
     "DepartureTime": "10:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -776,11 +776,11 @@
     },
     "ArrivalTime": "10:45",
     "DepartureTime": "10:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -806,11 +806,11 @@
     },
     "ArrivalTime": "10:53",
     "DepartureTime": "10:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -836,11 +836,11 @@
     },
     "ArrivalTime": "10:56",
     "DepartureTime": "10:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -866,11 +866,11 @@
     },
     "ArrivalTime": "11:07",
     "DepartureTime": "11:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -896,11 +896,11 @@
     },
     "ArrivalTime": "11:21",
     "DepartureTime": "11:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -926,11 +926,11 @@
     },
     "ArrivalTime": "11:23",
     "DepartureTime": "11:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -956,11 +956,41 @@
     },
     "ArrivalTime": "11:45",
     "DepartureTime": "11:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1631",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "11:53",
+    "DepartureTime": "11:56",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -986,11 +1016,11 @@
     },
     "ArrivalTime": "11:56",
     "DepartureTime": "11:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1016,11 +1046,11 @@
     },
     "ArrivalTime": "12:07",
     "DepartureTime": "12:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1046,11 +1076,11 @@
     },
     "ArrivalTime": "12:21",
     "DepartureTime": "12:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1076,11 +1106,11 @@
     },
     "ArrivalTime": "12:23",
     "DepartureTime": "12:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1106,11 +1136,11 @@
     },
     "ArrivalTime": "12:45",
     "DepartureTime": "12:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1136,11 +1166,41 @@
     },
     "ArrivalTime": "12:53",
     "DepartureTime": "12:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1634",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "12:56",
+    "DepartureTime": "12:57",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1166,11 +1226,11 @@
     },
     "ArrivalTime": "13:07",
     "DepartureTime": "13:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1196,11 +1256,11 @@
     },
     "ArrivalTime": "13:21",
     "DepartureTime": "13:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1226,11 +1286,41 @@
     },
     "ArrivalTime": "13:23",
     "DepartureTime": "13:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1534",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "13:38",
+    "DepartureTime": "13:39",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1256,11 +1346,11 @@
     },
     "ArrivalTime": "13:45",
     "DepartureTime": "13:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1286,11 +1376,11 @@
     },
     "ArrivalTime": "13:53",
     "DepartureTime": "13:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1316,11 +1406,11 @@
     },
     "ArrivalTime": "13:56",
     "DepartureTime": "13:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1346,11 +1436,41 @@
     },
     "ArrivalTime": "14:07",
     "DepartureTime": "14:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1529",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "14:11",
+    "DepartureTime": "14:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1376,11 +1496,11 @@
     },
     "ArrivalTime": "14:21",
     "DepartureTime": "14:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1406,11 +1526,41 @@
     },
     "ArrivalTime": "14:23",
     "DepartureTime": "14:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1538",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "14:38",
+    "DepartureTime": "14:39",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1436,11 +1586,11 @@
     },
     "ArrivalTime": "14:45",
     "DepartureTime": "14:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1466,11 +1616,11 @@
     },
     "ArrivalTime": "14:53",
     "DepartureTime": "14:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1496,11 +1646,11 @@
     },
     "ArrivalTime": "14:56",
     "DepartureTime": "14:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1526,11 +1676,41 @@
     },
     "ArrivalTime": "15:07",
     "DepartureTime": "15:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1533",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "15:11",
+    "DepartureTime": "15:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1556,11 +1736,11 @@
     },
     "ArrivalTime": "15:21",
     "DepartureTime": "15:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1586,11 +1766,41 @@
     },
     "ArrivalTime": "15:23",
     "DepartureTime": "15:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1542",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "15:38",
+    "DepartureTime": "15:39",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1616,11 +1826,11 @@
     },
     "ArrivalTime": "15:45",
     "DepartureTime": "15:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1646,11 +1856,11 @@
     },
     "ArrivalTime": "15:53",
     "DepartureTime": "15:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1676,11 +1886,11 @@
     },
     "ArrivalTime": "15:56",
     "DepartureTime": "15:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1706,11 +1916,41 @@
     },
     "ArrivalTime": "16:07",
     "DepartureTime": "16:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1537",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "16:11",
+    "DepartureTime": "16:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1736,11 +1976,11 @@
     },
     "ArrivalTime": "16:21",
     "DepartureTime": "16:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1766,11 +2006,41 @@
     },
     "ArrivalTime": "16:23",
     "DepartureTime": "16:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1546",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "16:38",
+    "DepartureTime": "16:39",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1796,11 +2066,11 @@
     },
     "ArrivalTime": "16:45",
     "DepartureTime": "16:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1826,11 +2096,11 @@
     },
     "ArrivalTime": "16:53",
     "DepartureTime": "16:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1856,11 +2126,11 @@
     },
     "ArrivalTime": "16:56",
     "DepartureTime": "16:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1886,11 +2156,41 @@
     },
     "ArrivalTime": "17:07",
     "DepartureTime": "17:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "3541",
+    "Direction": 0,
+    "StartingStationID": "1000",
+    "StartingStationName": {
+      "Zh_tw": "台北",
+      "En": "台北",
+      "Ja": "台北",
+      "Ko": "台北"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "17:11",
+    "DepartureTime": "17:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1916,11 +2216,11 @@
     },
     "ArrivalTime": "17:21",
     "DepartureTime": "17:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1946,11 +2246,11 @@
     },
     "ArrivalTime": "17:23",
     "DepartureTime": "17:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -1976,11 +2276,11 @@
     },
     "ArrivalTime": "17:38",
     "DepartureTime": "17:39",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2006,11 +2306,11 @@
     },
     "ArrivalTime": "17:45",
     "DepartureTime": "17:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2036,11 +2336,11 @@
     },
     "ArrivalTime": "17:53",
     "DepartureTime": "17:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2066,11 +2366,11 @@
     },
     "ArrivalTime": "17:56",
     "DepartureTime": "17:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2096,11 +2396,41 @@
     },
     "ArrivalTime": "18:07",
     "DepartureTime": "18:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "3545",
+    "Direction": 0,
+    "StartingStationID": "1000",
+    "StartingStationName": {
+      "Zh_tw": "台北",
+      "En": "台北",
+      "Ja": "台北",
+      "Ko": "台北"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "18:11",
+    "DepartureTime": "18:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2126,11 +2456,11 @@
     },
     "ArrivalTime": "18:21",
     "DepartureTime": "18:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2156,11 +2486,11 @@
     },
     "ArrivalTime": "18:23",
     "DepartureTime": "18:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2186,11 +2516,41 @@
     },
     "ArrivalTime": "18:27",
     "DepartureTime": "18:28",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1554",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "18:38",
+    "DepartureTime": "18:39",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2216,11 +2576,11 @@
     },
     "ArrivalTime": "18:45",
     "DepartureTime": "18:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2246,11 +2606,11 @@
     },
     "ArrivalTime": "18:53",
     "DepartureTime": "18:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2276,11 +2636,11 @@
     },
     "ArrivalTime": "18:56",
     "DepartureTime": "18:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2306,11 +2666,11 @@
     },
     "ArrivalTime": "19:07",
     "DepartureTime": "19:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2336,11 +2696,11 @@
     },
     "ArrivalTime": "19:11",
     "DepartureTime": "19:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2366,11 +2726,11 @@
     },
     "ArrivalTime": "19:21",
     "DepartureTime": "19:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2396,11 +2756,41 @@
     },
     "ArrivalTime": "19:23",
     "DepartureTime": "19:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1558",
+    "Direction": 1,
+    "StartingStationID": "1040",
+    "StartingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "19:38",
+    "DepartureTime": "19:39",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2426,11 +2816,11 @@
     },
     "ArrivalTime": "19:45",
     "DepartureTime": "19:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2456,11 +2846,11 @@
     },
     "ArrivalTime": "19:53",
     "DepartureTime": "19:56",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2486,11 +2876,11 @@
     },
     "ArrivalTime": "19:56",
     "DepartureTime": "19:57",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2516,11 +2906,41 @@
     },
     "ArrivalTime": "20:07",
     "DepartureTime": "20:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "3553",
+    "Direction": 0,
+    "StartingStationID": "1000",
+    "StartingStationName": {
+      "Zh_tw": "台北",
+      "En": "台北",
+      "Ja": "台北",
+      "Ko": "台北"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "20:11",
+    "DepartureTime": "20:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2546,11 +2966,11 @@
     },
     "ArrivalTime": "20:21",
     "DepartureTime": "20:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2576,11 +2996,11 @@
     },
     "ArrivalTime": "20:23",
     "DepartureTime": "20:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2606,11 +3026,71 @@
     },
     "ArrivalTime": "20:45",
     "DepartureTime": "20:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1685",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "20:53",
+    "DepartureTime": "20:56",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1682",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "20:56",
+    "DepartureTime": "20:57",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2636,11 +3116,41 @@
     },
     "ArrivalTime": "21:07",
     "DepartureTime": "21:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1557",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "21:11",
+    "DepartureTime": "21:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2666,11 +3176,11 @@
     },
     "ArrivalTime": "21:21",
     "DepartureTime": "21:22",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2696,11 +3206,41 @@
     },
     "ArrivalTime": "21:23",
     "DepartureTime": "21:25",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1689",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "21:39",
+    "DepartureTime": "21:41",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2726,11 +3266,71 @@
     },
     "ArrivalTime": "21:45",
     "DepartureTime": "21:47",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1691",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "21:53",
+    "DepartureTime": "21:56",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1688",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "21:56",
+    "DepartureTime": "21:57",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2756,11 +3356,11 @@
     },
     "ArrivalTime": "22:07",
     "DepartureTime": "22:08",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2786,11 +3386,11 @@
     },
     "ArrivalTime": "22:16",
     "DepartureTime": "22:17",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2816,11 +3416,41 @@
     },
     "ArrivalTime": "22:28",
     "DepartureTime": "22:30",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1563",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "22:38",
+    "DepartureTime": "22:39",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2846,11 +3476,41 @@
     },
     "ArrivalTime": "22:58",
     "DepartureTime": "23:00",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "新竹",
+      "Ja": "新竹",
+      "Ko": "新竹"
+    },
+    "TrainNo": "1575",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1040",
+    "EndingStationName": {
+      "Zh_tw": "台中",
+      "En": "台中",
+      "Ja": "台中",
+      "Ko": "台中"
+    },
+    "ArrivalTime": "23:10",
+    "DepartureTime": "23:12",
+    "UpdateTime": "2026-11-13",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2876,11 +3536,11 @@
     },
     "ArrivalTime": "23:11",
     "DepartureTime": "23:12",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2906,11 +3566,11 @@
     },
     "ArrivalTime": "23:24",
     "DepartureTime": "23:27",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-11",
+    "TrainDate": "2026-11-13",
     "StationID": "1030",
     "StationName": {
       "Zh_tw": "新竹",
@@ -2936,7 +3596,7 @@
     },
     "ArrivalTime": "23:30",
     "DepartureTime": "23:32",
-    "UpdateTime": "2026-11-11",
+    "UpdateTime": "2026-11-13",
     "VersionID": 1
   }
 ]
