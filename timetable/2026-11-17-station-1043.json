@@ -1,72 +1,12 @@
 [
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "1346",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "06:19",
-    "DepartureTime": "06:22",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "0300",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "06:33",
-    "DepartureTime": "06:34",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0583",
     "Direction": 0,
@@ -84,19 +24,49 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "06:46",
-    "DepartureTime": "06:47",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "06:36",
+    "DepartureTime": "06:37",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "0300",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "06:43",
+    "DepartureTime": "06:44",
+    "UpdateTime": "2026-11-17",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0802",
     "Direction": 1,
@@ -114,19 +84,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "06:59",
-    "DepartureTime": "07:00",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "07:10",
+    "DepartureTime": "07:13",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "1302",
     "Direction": 1,
@@ -144,19 +114,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "07:30",
-    "DepartureTime": "07:32",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "07:41",
+    "DepartureTime": "07:42",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0803",
     "Direction": 0,
@@ -174,19 +144,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "07:55",
-    "DepartureTime": "07:56",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "07:44",
+    "DepartureTime": "07:45",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0806",
     "Direction": 1,
@@ -204,19 +174,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "08:11",
-    "DepartureTime": "08:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "08:21",
+    "DepartureTime": "08:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0805",
     "Direction": 0,
@@ -234,49 +204,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "08:40",
-    "DepartureTime": "08:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "08:27",
+    "DepartureTime": "08:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "0810",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "09:11",
-    "DepartureTime": "09:12",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "1305",
     "Direction": 0,
@@ -294,19 +234,49 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "09:16",
-    "DepartureTime": "09:17",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "09:05",
+    "DepartureTime": "09:06",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "0810",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "09:21",
+    "DepartureTime": "09:24",
+    "UpdateTime": "2026-11-17",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0809",
     "Direction": 0,
@@ -324,49 +294,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "09:39",
-    "DepartureTime": "09:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "09:27",
+    "DepartureTime": "09:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "0814",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "10:11",
-    "DepartureTime": "10:12",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "1307",
     "Direction": 0,
@@ -384,19 +324,49 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "10:16",
-    "DepartureTime": "10:17",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "10:05",
+    "DepartureTime": "10:06",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "0814",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "10:21",
+    "DepartureTime": "10:24",
+    "UpdateTime": "2026-11-17",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0813",
     "Direction": 0,
@@ -414,19 +384,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "10:39",
-    "DepartureTime": "10:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "10:27",
+    "DepartureTime": "10:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0818",
     "Direction": 1,
@@ -444,49 +414,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "11:11",
-    "DepartureTime": "11:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "11:21",
+    "DepartureTime": "11:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "1309",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "11:16",
-    "DepartureTime": "11:17",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0817",
     "Direction": 0,
@@ -504,19 +444,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "11:39",
-    "DepartureTime": "11:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "11:27",
+    "DepartureTime": "11:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0822",
     "Direction": 1,
@@ -534,19 +474,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "12:11",
-    "DepartureTime": "12:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "12:23",
+    "DepartureTime": "12:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0821",
     "Direction": 0,
@@ -564,19 +504,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "12:39",
-    "DepartureTime": "12:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "12:27",
+    "DepartureTime": "12:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0826",
     "Direction": 1,
@@ -594,19 +534,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "13:11",
-    "DepartureTime": "13:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "13:21",
+    "DepartureTime": "13:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0825",
     "Direction": 0,
@@ -624,19 +564,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "13:39",
-    "DepartureTime": "13:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "13:27",
+    "DepartureTime": "13:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0830",
     "Direction": 1,
@@ -654,19 +594,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "14:11",
-    "DepartureTime": "14:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "14:21",
+    "DepartureTime": "14:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0829",
     "Direction": 0,
@@ -684,19 +624,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "14:39",
-    "DepartureTime": "14:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "14:27",
+    "DepartureTime": "14:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0834",
     "Direction": 1,
@@ -714,19 +654,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "15:11",
-    "DepartureTime": "15:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "15:21",
+    "DepartureTime": "15:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0833",
     "Direction": 0,
@@ -744,19 +684,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "15:39",
-    "DepartureTime": "15:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "15:27",
+    "DepartureTime": "15:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0838",
     "Direction": 1,
@@ -774,49 +714,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "16:11",
-    "DepartureTime": "16:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "16:21",
+    "DepartureTime": "16:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "1320",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "16:30",
-    "DepartureTime": "16:31",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0837",
     "Direction": 0,
@@ -834,19 +744,49 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "16:39",
-    "DepartureTime": "16:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "16:27",
+    "DepartureTime": "16:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "1321",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "17:05",
+    "DepartureTime": "17:06",
+    "UpdateTime": "2026-11-17",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0842",
     "Direction": 1,
@@ -864,19 +804,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "17:11",
-    "DepartureTime": "17:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "17:21",
+    "DepartureTime": "17:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0841",
     "Direction": 0,
@@ -894,19 +834,49 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "17:39",
-    "DepartureTime": "17:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "17:27",
+    "DepartureTime": "17:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
+    },
+    "TrainNo": "1322",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "17:40",
+    "DepartureTime": "17:41",
+    "UpdateTime": "2026-11-17",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0846",
     "Direction": 1,
@@ -924,19 +894,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "18:11",
-    "DepartureTime": "18:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "18:21",
+    "DepartureTime": "18:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0845",
     "Direction": 0,
@@ -954,19 +924,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "18:39",
-    "DepartureTime": "18:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "18:27",
+    "DepartureTime": "18:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0850",
     "Direction": 1,
@@ -984,19 +954,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "19:11",
-    "DepartureTime": "19:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "19:21",
+    "DepartureTime": "19:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0849",
     "Direction": 0,
@@ -1014,19 +984,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "19:39",
-    "DepartureTime": "19:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "19:27",
+    "DepartureTime": "19:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0854",
     "Direction": 1,
@@ -1044,79 +1014,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "20:11",
-    "DepartureTime": "20:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "20:23",
+    "DepartureTime": "20:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "1327",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "20:16",
-    "DepartureTime": "20:17",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
-    },
-    "TrainNo": "1328",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "20:30",
-    "DepartureTime": "20:31",
-    "UpdateTime": "2026-11-13",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
-    "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0853",
     "Direction": 0,
@@ -1134,19 +1044,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "20:39",
-    "DepartureTime": "20:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "20:27",
+    "DepartureTime": "20:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0858",
     "Direction": 1,
@@ -1164,19 +1074,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "21:11",
-    "DepartureTime": "21:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "21:23",
+    "DepartureTime": "21:24",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0857",
     "Direction": 0,
@@ -1194,19 +1104,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "21:39",
-    "DepartureTime": "21:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "21:27",
+    "DepartureTime": "21:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0862",
     "Direction": 1,
@@ -1224,19 +1134,19 @@
       "Ja": "南港",
       "Ko": "南港"
     },
-    "ArrivalTime": "22:14",
-    "DepartureTime": "22:16",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "22:27",
+    "DepartureTime": "22:28",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0861",
     "Direction": 0,
@@ -1254,19 +1164,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "22:39",
-    "DepartureTime": "22:41",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "22:27",
+    "DepartureTime": "22:30",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0333",
     "Direction": 0,
@@ -1284,19 +1194,19 @@
       "Ja": "左營",
       "Ko": "左營"
     },
-    "ArrivalTime": "23:11",
-    "DepartureTime": "23:12",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "22:59",
+    "DepartureTime": "23:01",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-13",
-    "StationID": "1047",
+    "TrainDate": "2026-11-17",
+    "StationID": "1043",
     "StationName": {
-      "Zh_tw": "雲林",
-      "En": "雲林",
-      "Ja": "雲林",
-      "Ko": "雲林"
+      "Zh_tw": "彰化",
+      "En": "彰化",
+      "Ja": "彰化",
+      "Ko": "彰化"
     },
     "TrainNo": "0598",
     "Direction": 1,
@@ -1314,9 +1224,9 @@
       "Ja": "台中",
       "Ko": "台中"
     },
-    "ArrivalTime": "23:38",
-    "DepartureTime": "23:39",
-    "UpdateTime": "2026-11-13",
+    "ArrivalTime": "23:48",
+    "DepartureTime": "23:49",
+    "UpdateTime": "2026-11-17",
     "VersionID": 1
   }
 ]
