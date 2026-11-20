@@ -8,6 +8,7 @@ import re
 import subprocess
 import time
 import random
+import ssl
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -50,6 +51,32 @@ STATIONS = [
 DELAY_MIN, DELAY_MAX = 15.0, 17.0  # 每站間隔秒數；預留每分鐘 5 次限制的餘裕
 ROOT = Path(__file__).resolve().parent
 TIME_RE = re.compile(r'(?:[01][0-9]|2[0-3]):[0-5][0-9]')
+
+
+def _ssl_context() -> ssl.SSLContext:
+    """Build an SSL context that works both in interactive shells and cron.
+
+    macOS cron does not always inherit the system keychain trust anchors
+    that `/usr/bin/python3` normally resolves via LibreSSL. Fall back to the
+    bundled certifi bundle when available, and finally to the system store,
+    before giving up.
+    """
+    for candidate in (
+        os.environ.get("SSL_CERT_FILE"),
+        os.environ.get("REQUESTS_CA_BUNDLE"),
+        "/private/etc/ssl/cert.pem",
+        "/etc/ssl/cert.pem",
+    ):
+        if candidate and Path(candidate).is_file():
+            try:
+                return ssl.create_default_context(cafile=candidate)
+            except ssl.SSLError:
+                continue
+    try:
+        import certifi  # type: ignore
+        return ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        return ssl.create_default_context()
 
 
 def validate_date(train_date):
@@ -192,7 +219,7 @@ def authenticate():
         data=payload,
         headers={"Content-Type": "application/x-www-form-urlencoded"},
     )
-    with urllib.request.urlopen(req, timeout=15) as resp:
+    with urllib.request.urlopen(req, timeout=15, context=_ssl_context()) as resp:
         token = json.load(resp)["access_token"]
     HEADERS["Authorization"] = f"Bearer {token}"
 
@@ -203,7 +230,7 @@ def fetch_station(station_id: str, train_date: str, retries: int = 3) -> list:
     for attempt in range(1, retries + 1):
         try:
             req = urllib.request.Request(url, headers=HEADERS)
-            with urllib.request.urlopen(req, timeout=15) as resp:
+            with urllib.request.urlopen(req, timeout=15, context=_ssl_context()) as resp:
                 raw = resp.read()
             if b"Valid API Key" in raw:
                 raise RuntimeError("API 回傳 Valid API Key Required")
