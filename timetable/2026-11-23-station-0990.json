@@ -1,6 +1,6 @@
 [
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -26,11 +26,41 @@
     },
     "ArrivalTime": "06:15",
     "DepartureTime": "06:15",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "1103",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "06:35",
+    "DepartureTime": "06:35",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -56,11 +86,11 @@
     },
     "ArrivalTime": "06:40",
     "DepartureTime": "06:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -86,41 +116,11 @@
     },
     "ArrivalTime": "07:00",
     "DepartureTime": "07:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0109",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "07:20",
-    "DepartureTime": "07:20",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -146,11 +146,41 @@
     },
     "ArrivalTime": "07:20",
     "DepartureTime": "07:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0109",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "07:20",
+    "DepartureTime": "07:20",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -176,11 +206,11 @@
     },
     "ArrivalTime": "07:25",
     "DepartureTime": "07:25",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -206,11 +236,11 @@
     },
     "ArrivalTime": "07:35",
     "DepartureTime": "07:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -236,11 +266,11 @@
     },
     "ArrivalTime": "07:40",
     "DepartureTime": "07:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -266,11 +296,11 @@
     },
     "ArrivalTime": "07:45",
     "DepartureTime": "07:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -296,11 +326,11 @@
     },
     "ArrivalTime": "07:50",
     "DepartureTime": "07:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -326,11 +356,11 @@
     },
     "ArrivalTime": "07:55",
     "DepartureTime": "07:55",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -356,11 +386,11 @@
     },
     "ArrivalTime": "08:00",
     "DepartureTime": "08:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -386,11 +416,11 @@
     },
     "ArrivalTime": "08:10",
     "DepartureTime": "08:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -416,11 +446,11 @@
     },
     "ArrivalTime": "08:10",
     "DepartureTime": "08:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -446,11 +476,11 @@
     },
     "ArrivalTime": "08:15",
     "DepartureTime": "08:15",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -476,11 +506,11 @@
     },
     "ArrivalTime": "08:20",
     "DepartureTime": "08:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -506,11 +536,11 @@
     },
     "ArrivalTime": "08:30",
     "DepartureTime": "08:30",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -536,11 +566,11 @@
     },
     "ArrivalTime": "08:35",
     "DepartureTime": "08:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -566,11 +596,41 @@
     },
     "ArrivalTime": "08:40",
     "DepartureTime": "08:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "1209",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "08:40",
+    "DepartureTime": "08:40",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -596,11 +656,11 @@
     },
     "ArrivalTime": "08:45",
     "DepartureTime": "08:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -626,41 +686,11 @@
     },
     "ArrivalTime": "08:50",
     "DepartureTime": "08:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1307",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "08:50",
-    "DepartureTime": "08:50",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -686,11 +716,11 @@
     },
     "ArrivalTime": "08:55",
     "DepartureTime": "08:55",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -716,11 +746,11 @@
     },
     "ArrivalTime": "09:00",
     "DepartureTime": "09:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -746,11 +776,11 @@
     },
     "ArrivalTime": "09:05",
     "DepartureTime": "09:05",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -776,11 +806,11 @@
     },
     "ArrivalTime": "09:10",
     "DepartureTime": "09:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -806,11 +836,11 @@
     },
     "ArrivalTime": "09:10",
     "DepartureTime": "09:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -836,11 +866,11 @@
     },
     "ArrivalTime": "09:20",
     "DepartureTime": "09:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -866,11 +896,11 @@
     },
     "ArrivalTime": "09:25",
     "DepartureTime": "09:25",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -896,11 +926,41 @@
     },
     "ArrivalTime": "09:35",
     "DepartureTime": "09:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "1213",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "09:40",
+    "DepartureTime": "09:40",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -926,11 +986,11 @@
     },
     "ArrivalTime": "09:40",
     "DepartureTime": "09:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -956,11 +1016,11 @@
     },
     "ArrivalTime": "09:45",
     "DepartureTime": "09:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -986,41 +1046,11 @@
     },
     "ArrivalTime": "09:50",
     "DepartureTime": "09:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1309",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "09:50",
-    "DepartureTime": "09:50",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1046,11 +1076,11 @@
     },
     "ArrivalTime": "10:00",
     "DepartureTime": "10:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1076,41 +1106,11 @@
     },
     "ArrivalTime": "10:05",
     "DepartureTime": "10:05",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0612",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "10:10",
-    "DepartureTime": "10:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1136,11 +1136,41 @@
     },
     "ArrivalTime": "10:10",
     "DepartureTime": "10:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0612",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "10:10",
+    "DepartureTime": "10:10",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1166,11 +1196,11 @@
     },
     "ArrivalTime": "10:20",
     "DepartureTime": "10:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1196,41 +1226,11 @@
     },
     "ArrivalTime": "10:35",
     "DepartureTime": "10:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1217",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "10:40",
-    "DepartureTime": "10:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1256,11 +1256,11 @@
     },
     "ArrivalTime": "10:40",
     "DepartureTime": "10:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1286,11 +1286,11 @@
     },
     "ArrivalTime": "10:45",
     "DepartureTime": "10:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1316,11 +1316,41 @@
     },
     "ArrivalTime": "10:50",
     "DepartureTime": "10:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "1311",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "10:50",
+    "DepartureTime": "10:50",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1346,41 +1376,11 @@
     },
     "ArrivalTime": "11:00",
     "DepartureTime": "11:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0618",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "11:10",
-    "DepartureTime": "11:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1406,11 +1406,41 @@
     },
     "ArrivalTime": "11:10",
     "DepartureTime": "11:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0618",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "11:10",
+    "DepartureTime": "11:10",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1436,11 +1466,11 @@
     },
     "ArrivalTime": "11:20",
     "DepartureTime": "11:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1466,11 +1496,11 @@
     },
     "ArrivalTime": "11:35",
     "DepartureTime": "11:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1496,11 +1526,11 @@
     },
     "ArrivalTime": "11:40",
     "DepartureTime": "11:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1526,11 +1556,11 @@
     },
     "ArrivalTime": "11:45",
     "DepartureTime": "11:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1556,11 +1586,11 @@
     },
     "ArrivalTime": "11:50",
     "DepartureTime": "11:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1586,11 +1616,41 @@
     },
     "ArrivalTime": "12:00",
     "DepartureTime": "12:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "1218",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "12:05",
+    "DepartureTime": "12:05",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1616,11 +1676,11 @@
     },
     "ArrivalTime": "12:10",
     "DepartureTime": "12:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1646,11 +1706,11 @@
     },
     "ArrivalTime": "12:10",
     "DepartureTime": "12:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1676,11 +1736,11 @@
     },
     "ArrivalTime": "12:20",
     "DepartureTime": "12:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1706,11 +1766,11 @@
     },
     "ArrivalTime": "12:35",
     "DepartureTime": "12:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1736,41 +1796,11 @@
     },
     "ArrivalTime": "12:40",
     "DepartureTime": "12:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1225",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "12:40",
-    "DepartureTime": "12:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1796,11 +1826,11 @@
     },
     "ArrivalTime": "12:45",
     "DepartureTime": "12:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1826,11 +1856,11 @@
     },
     "ArrivalTime": "12:50",
     "DepartureTime": "12:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1856,41 +1886,11 @@
     },
     "ArrivalTime": "13:00",
     "DepartureTime": "13:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0630",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "13:10",
-    "DepartureTime": "13:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1916,11 +1916,41 @@
     },
     "ArrivalTime": "13:10",
     "DepartureTime": "13:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0630",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "13:10",
+    "DepartureTime": "13:10",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -1946,41 +1976,11 @@
     },
     "ArrivalTime": "13:20",
     "DepartureTime": "13:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1529",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1040",
-    "EndingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "ArrivalTime": "13:25",
-    "DepartureTime": "13:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2006,11 +2006,11 @@
     },
     "ArrivalTime": "13:35",
     "DepartureTime": "13:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2036,41 +2036,11 @@
     },
     "ArrivalTime": "13:40",
     "DepartureTime": "13:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1229",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "13:40",
-    "DepartureTime": "13:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2096,11 +2066,11 @@
     },
     "ArrivalTime": "13:45",
     "DepartureTime": "13:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2126,11 +2096,11 @@
     },
     "ArrivalTime": "13:50",
     "DepartureTime": "13:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2156,41 +2126,11 @@
     },
     "ArrivalTime": "14:00",
     "DepartureTime": "14:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1226",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "14:05",
-    "DepartureTime": "14:05",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2216,11 +2156,11 @@
     },
     "ArrivalTime": "14:10",
     "DepartureTime": "14:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2246,11 +2186,11 @@
     },
     "ArrivalTime": "14:10",
     "DepartureTime": "14:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2276,71 +2216,11 @@
     },
     "ArrivalTime": "14:20",
     "DepartureTime": "14:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1533",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1040",
-    "EndingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "ArrivalTime": "14:25",
-    "DepartureTime": "14:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1534",
-    "Direction": 1,
-    "StartingStationID": "1040",
-    "StartingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "14:25",
-    "DepartureTime": "14:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2366,41 +2246,11 @@
     },
     "ArrivalTime": "14:35",
     "DepartureTime": "14:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1233",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "14:40",
-    "DepartureTime": "14:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2426,11 +2276,11 @@
     },
     "ArrivalTime": "14:40",
     "DepartureTime": "14:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2456,11 +2306,11 @@
     },
     "ArrivalTime": "14:45",
     "DepartureTime": "14:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2486,11 +2336,11 @@
     },
     "ArrivalTime": "14:50",
     "DepartureTime": "14:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2516,71 +2366,11 @@
     },
     "ArrivalTime": "15:00",
     "DepartureTime": "15:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1230",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "15:05",
-    "DepartureTime": "15:05",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0642",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "15:10",
-    "DepartureTime": "15:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2606,11 +2396,41 @@
     },
     "ArrivalTime": "15:10",
     "DepartureTime": "15:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0642",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "15:10",
+    "DepartureTime": "15:10",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2636,71 +2456,11 @@
     },
     "ArrivalTime": "15:20",
     "DepartureTime": "15:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1537",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1040",
-    "EndingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "ArrivalTime": "15:25",
-    "DepartureTime": "15:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1538",
-    "Direction": 1,
-    "StartingStationID": "1040",
-    "StartingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "15:25",
-    "DepartureTime": "15:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2726,11 +2486,11 @@
     },
     "ArrivalTime": "15:35",
     "DepartureTime": "15:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2756,41 +2516,11 @@
     },
     "ArrivalTime": "15:40",
     "DepartureTime": "15:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1237",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "15:40",
-    "DepartureTime": "15:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2816,11 +2546,41 @@
     },
     "ArrivalTime": "15:45",
     "DepartureTime": "15:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "1321",
+    "Direction": 0,
+    "StartingStationID": "0990",
+    "StartingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "EndingStationID": "1070",
+    "EndingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "ArrivalTime": "15:50",
+    "DepartureTime": "15:50",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2846,11 +2606,11 @@
     },
     "ArrivalTime": "15:50",
     "DepartureTime": "15:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2876,71 +2636,11 @@
     },
     "ArrivalTime": "16:00",
     "DepartureTime": "16:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1234",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "16:05",
-    "DepartureTime": "16:05",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0648",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "16:10",
-    "DepartureTime": "16:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2966,11 +2666,41 @@
     },
     "ArrivalTime": "16:10",
     "DepartureTime": "16:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0648",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "16:10",
+    "DepartureTime": "16:10",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -2996,41 +2726,11 @@
     },
     "ArrivalTime": "16:20",
     "DepartureTime": "16:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1542",
-    "Direction": 1,
-    "StartingStationID": "1040",
-    "StartingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "16:25",
-    "DepartureTime": "16:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3056,11 +2756,11 @@
     },
     "ArrivalTime": "16:35",
     "DepartureTime": "16:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3086,11 +2786,11 @@
     },
     "ArrivalTime": "16:40",
     "DepartureTime": "16:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3116,11 +2816,11 @@
     },
     "ArrivalTime": "16:40",
     "DepartureTime": "16:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3146,11 +2846,11 @@
     },
     "ArrivalTime": "16:45",
     "DepartureTime": "16:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3176,11 +2876,11 @@
     },
     "ArrivalTime": "16:50",
     "DepartureTime": "16:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3206,11 +2906,11 @@
     },
     "ArrivalTime": "17:00",
     "DepartureTime": "17:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3236,11 +2936,11 @@
     },
     "ArrivalTime": "17:05",
     "DepartureTime": "17:05",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3266,11 +2966,11 @@
     },
     "ArrivalTime": "17:10",
     "DepartureTime": "17:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3296,11 +2996,11 @@
     },
     "ArrivalTime": "17:10",
     "DepartureTime": "17:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3326,41 +3026,11 @@
     },
     "ArrivalTime": "17:20",
     "DepartureTime": "17:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1546",
-    "Direction": 1,
-    "StartingStationID": "1040",
-    "StartingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "17:25",
-    "DepartureTime": "17:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3386,11 +3056,11 @@
     },
     "ArrivalTime": "17:35",
     "DepartureTime": "17:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3416,71 +3086,11 @@
     },
     "ArrivalTime": "17:40",
     "DepartureTime": "17:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1245",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "17:40",
-    "DepartureTime": "17:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0658",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "17:45",
-    "DepartureTime": "17:45",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3506,11 +3116,41 @@
     },
     "ArrivalTime": "17:45",
     "DepartureTime": "17:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0658",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "17:45",
+    "DepartureTime": "17:45",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3536,41 +3176,11 @@
     },
     "ArrivalTime": "17:50",
     "DepartureTime": "17:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1320",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "17:55",
-    "DepartureTime": "17:55",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3596,11 +3206,11 @@
     },
     "ArrivalTime": "18:00",
     "DepartureTime": "18:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3626,11 +3236,11 @@
     },
     "ArrivalTime": "18:05",
     "DepartureTime": "18:05",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3656,11 +3266,11 @@
     },
     "ArrivalTime": "18:10",
     "DepartureTime": "18:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3686,11 +3296,11 @@
     },
     "ArrivalTime": "18:10",
     "DepartureTime": "18:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3716,11 +3326,11 @@
     },
     "ArrivalTime": "18:20",
     "DepartureTime": "18:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3746,11 +3356,11 @@
     },
     "ArrivalTime": "18:25",
     "DepartureTime": "18:25",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3776,11 +3386,11 @@
     },
     "ArrivalTime": "18:25",
     "DepartureTime": "18:25",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3806,41 +3416,11 @@
     },
     "ArrivalTime": "18:35",
     "DepartureTime": "18:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0144",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "18:40",
-    "DepartureTime": "18:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3866,11 +3446,41 @@
     },
     "ArrivalTime": "18:40",
     "DepartureTime": "18:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0144",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "18:40",
+    "DepartureTime": "18:40",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3896,41 +3506,11 @@
     },
     "ArrivalTime": "18:45",
     "DepartureTime": "18:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1327",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "18:50",
-    "DepartureTime": "18:50",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3956,11 +3536,41 @@
     },
     "ArrivalTime": "18:50",
     "DepartureTime": "18:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "1322",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "18:55",
+    "DepartureTime": "18:55",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -3986,11 +3596,11 @@
     },
     "ArrivalTime": "19:00",
     "DepartureTime": "19:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4016,41 +3626,11 @@
     },
     "ArrivalTime": "19:05",
     "DepartureTime": "19:05",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "0666",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "19:10",
-    "DepartureTime": "19:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4076,11 +3656,41 @@
     },
     "ArrivalTime": "19:10",
     "DepartureTime": "19:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "TrainNo": "0666",
+    "Direction": 1,
+    "StartingStationID": "1070",
+    "StartingStationName": {
+      "Zh_tw": "左營",
+      "En": "左營",
+      "Ja": "左營",
+      "Ko": "左營"
+    },
+    "EndingStationID": "0990",
+    "EndingStationName": {
+      "Zh_tw": "南港",
+      "En": "南港",
+      "Ja": "南港",
+      "Ko": "南港"
+    },
+    "ArrivalTime": "19:10",
+    "DepartureTime": "19:10",
+    "UpdateTime": "2026-11-23",
+    "VersionID": 1
+  },
+  {
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4106,41 +3716,11 @@
     },
     "ArrivalTime": "19:20",
     "DepartureTime": "19:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1554",
-    "Direction": 1,
-    "StartingStationID": "1040",
-    "StartingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "19:25",
-    "DepartureTime": "19:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4166,41 +3746,11 @@
     },
     "ArrivalTime": "19:35",
     "DepartureTime": "19:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1253",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "19:40",
-    "DepartureTime": "19:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4226,11 +3776,11 @@
     },
     "ArrivalTime": "19:40",
     "DepartureTime": "19:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4256,11 +3806,11 @@
     },
     "ArrivalTime": "19:45",
     "DepartureTime": "19:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4286,41 +3836,11 @@
     },
     "ArrivalTime": "19:50",
     "DepartureTime": "19:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1324",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "19:55",
-    "DepartureTime": "19:55",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4346,41 +3866,11 @@
     },
     "ArrivalTime": "20:00",
     "DepartureTime": "20:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1250",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "20:05",
-    "DepartureTime": "20:05",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4406,41 +3896,11 @@
     },
     "ArrivalTime": "20:10",
     "DepartureTime": "20:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1685",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "20:10",
-    "DepartureTime": "20:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4466,71 +3926,11 @@
     },
     "ArrivalTime": "20:20",
     "DepartureTime": "20:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1557",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1040",
-    "EndingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "ArrivalTime": "20:25",
-    "DepartureTime": "20:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1558",
-    "Direction": 1,
-    "StartingStationID": "1040",
-    "StartingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "20:25",
-    "DepartureTime": "20:25",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4556,41 +3956,11 @@
     },
     "ArrivalTime": "20:35",
     "DepartureTime": "20:35",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1257",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "20:40",
-    "DepartureTime": "20:40",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4616,11 +3986,11 @@
     },
     "ArrivalTime": "20:40",
     "DepartureTime": "20:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4646,11 +4016,11 @@
     },
     "ArrivalTime": "20:45",
     "DepartureTime": "20:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4676,41 +4046,11 @@
     },
     "ArrivalTime": "20:50",
     "DepartureTime": "20:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1331",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "20:50",
-    "DepartureTime": "20:50",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4736,41 +4076,11 @@
     },
     "ArrivalTime": "21:00",
     "DepartureTime": "21:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1254",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "21:05",
-    "DepartureTime": "21:05",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4796,41 +4106,11 @@
     },
     "ArrivalTime": "21:10",
     "DepartureTime": "21:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1691",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "21:10",
-    "DepartureTime": "21:10",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4856,11 +4136,11 @@
     },
     "ArrivalTime": "21:20",
     "DepartureTime": "21:20",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4886,41 +4166,11 @@
     },
     "ArrivalTime": "21:30",
     "DepartureTime": "21:30",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1293",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1070",
-    "EndingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "ArrivalTime": "21:35",
-    "DepartureTime": "21:35",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4946,11 +4196,11 @@
     },
     "ArrivalTime": "21:40",
     "DepartureTime": "21:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -4976,41 +4226,11 @@
     },
     "ArrivalTime": "21:45",
     "DepartureTime": "21:45",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1682",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "21:45",
-    "DepartureTime": "21:45",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5036,71 +4256,11 @@
     },
     "ArrivalTime": "21:50",
     "DepartureTime": "21:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1563",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1040",
-    "EndingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "ArrivalTime": "21:55",
-    "DepartureTime": "21:55",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1328",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "21:55",
-    "DepartureTime": "21:55",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5126,11 +4286,11 @@
     },
     "ArrivalTime": "22:00",
     "DepartureTime": "22:00",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5156,41 +4316,11 @@
     },
     "ArrivalTime": "22:05",
     "DepartureTime": "22:05",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1258",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "22:05",
-    "DepartureTime": "22:05",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5216,11 +4346,11 @@
     },
     "ArrivalTime": "22:10",
     "DepartureTime": "22:10",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5246,41 +4376,11 @@
     },
     "ArrivalTime": "22:15",
     "DepartureTime": "22:15",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1575",
-    "Direction": 0,
-    "StartingStationID": "0990",
-    "StartingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "EndingStationID": "1040",
-    "EndingStationName": {
-      "Zh_tw": "台中",
-      "En": "台中",
-      "Ja": "台中",
-      "Ko": "台中"
-    },
-    "ArrivalTime": "22:30",
-    "DepartureTime": "22:30",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5306,41 +4406,11 @@
     },
     "ArrivalTime": "22:40",
     "DepartureTime": "22:40",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1688",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "22:45",
-    "DepartureTime": "22:45",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5366,11 +4436,11 @@
     },
     "ArrivalTime": "22:50",
     "DepartureTime": "22:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5396,11 +4466,11 @@
     },
     "ArrivalTime": "22:50",
     "DepartureTime": "22:50",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5426,41 +4496,11 @@
     },
     "ArrivalTime": "23:15",
     "DepartureTime": "23:15",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
-    "StationID": "0990",
-    "StationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "TrainNo": "1264",
-    "Direction": 1,
-    "StartingStationID": "1070",
-    "StartingStationName": {
-      "Zh_tw": "左營",
-      "En": "左營",
-      "Ja": "左營",
-      "Ko": "左營"
-    },
-    "EndingStationID": "0990",
-    "EndingStationName": {
-      "Zh_tw": "南港",
-      "En": "南港",
-      "Ja": "南港",
-      "Ko": "南港"
-    },
-    "ArrivalTime": "23:30",
-    "DepartureTime": "23:30",
-    "UpdateTime": "2026-11-20",
-    "VersionID": 1
-  },
-  {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5486,11 +4526,11 @@
     },
     "ArrivalTime": "23:55",
     "DepartureTime": "23:55",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   },
   {
-    "TrainDate": "2026-11-20",
+    "TrainDate": "2026-11-23",
     "StationID": "0990",
     "StationName": {
       "Zh_tw": "南港",
@@ -5516,7 +4556,7 @@
     },
     "ArrivalTime": "23:59",
     "DepartureTime": "23:59",
-    "UpdateTime": "2026-11-20",
+    "UpdateTime": "2026-11-23",
     "VersionID": 1
   }
 ]
